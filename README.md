@@ -31,3 +31,5 @@ Copy `.env.example` to `.env.local`, fill in the public project URL and publisha
 ## Languages
 
 The language selector covers English, Arabic, Chinese, French, Russian and Spanish. Interface translations are maintained in `lib/i18n/ui.tsv` and `lib/i18n/standards.tsv`; run `node scripts/build-translations.mjs` after editing. Arabic uses right-to-left layout. User-entered organization data, resource filenames and file bytes are excluded from translation. `npm run check` verifies translation coverage and unchanged document hashes.
+
+Default language is saved with each account profile and restored on every password sign-in. The registration choice initially follows the registration page language, and Account lets users change it later. The saved default determines screen layout direction; the temporary language picker determines reading direction independently. Older profiles without this field use English until a preference is saved.

@@ -1490,6 +1490,20 @@
     "zh": "邮箱密码找回功能尚未开通。",
     "ar": "استعادة كلمة المرور بالبريد غير متاحة بعد."
   },
+  "Default language": {
+    "fr": "Langue par défaut",
+    "es": "Idioma predeterminado",
+    "ru": "Язык по умолчанию",
+    "zh": "默认语言",
+    "ar": "اللغة الافتراضية"
+  },
+  "Select a supported language.": {
+    "fr": "Sélectionnez une langue disponible.",
+    "es": "Seleccione un idioma disponible.",
+    "ru": "Выберите поддерживаемый язык.",
+    "zh": "请选择支持的语言。",
+    "ar": "اختر لغة مدعومة."
+  },
   "Organizational Policy": {
     "fr": "Politique organisationnelle",
     "es": "Política de la organización",

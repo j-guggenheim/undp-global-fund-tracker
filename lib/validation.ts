@@ -1,8 +1,10 @@
 import {standards} from './standards';
-export type Profile={organization:string;country:string;name:string;contact:string;grant:string;funding:string;currency:string};
-export function validateProfile(input:unknown):Profile{
+import {isLocale,type Locale} from './i18n/locales';
+export type Profile={organization:string;country:string;name:string;contact:string;grant:string;funding:string;currency:string;defaultLanguage:Locale};
+export function validateProfile(input:unknown,fallbackLanguage:Locale='en'):Profile{
  if(!input||typeof input!=='object')throw Error('Organization details are required.');
  const raw=input as Record<string,unknown>,p={} as Profile;
+ if(raw.defaultLanguage!==undefined&&!isLocale(raw.defaultLanguage))throw Error('Select a supported language.');p.defaultLanguage=isLocale(raw.defaultLanguage)?raw.defaultLanguage:fallbackLanguage;
  for(const key of ['organization','country','name','contact','grant','funding','currency'] as const){if(typeof raw[key]!=='string'||raw[key].length>500)throw Error('Check your organization details.');p[key]=raw[key].trim()}
  if(!p.organization||!p.country||!p.name||!/^\S+@\S+\.\S+$/.test(p.contact)||!['USD','EUR','CHF','GBP'].includes(p.currency)||p.funding!==''&&(!Number.isFinite(Number(p.funding))||Number(p.funding)<0))throw Error('Check your organization and funding details.');return p;
 }
