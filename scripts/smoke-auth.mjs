@@ -1,7 +1,7 @@
 // Integration check against the dedicated development project. Creates clearly labelled QA accounts.
 import {createClient} from '@supabase/supabase-js';import {randomUUID,randomBytes} from 'node:crypto';import fs from 'node:fs';
 const settings=Object.fromEntries(fs.readFileSync('.env.local','utf8').split('\n').filter(l=>l.startsWith('NEXT_PUBLIC_SUPABASE_')).map(l=>{const i=l.indexOf('=');return [l.slice(0,i),l.slice(i+1).replace(/^"|"$/g,'')]}));
-const base='http://127.0.0.1:3000';const password=randomBytes(24).toString('base64url');
+const base=process.env.PSEAH_TEST_BASE_URL||'http://127.0.0.1:3000';const password=randomBytes(24).toString('base64url');
 async function request(path,jar={},options={}){const res=await fetch(base+path,{...options,headers:{Origin:base,...(jar.cookie?{Cookie:jar.cookie}:{}),...options.headers}});const cookies=res.headers.getSetCookie();if(cookies.length){const map=new Map((jar.cookie||'').split('; ').filter(Boolean).map(c=>[c.slice(0,c.indexOf('=')),c.slice(c.indexOf('=')+1)]));for(const c of cookies){const v=c.split(';')[0],i=v.indexOf('=');map.set(v.slice(0,i),v.slice(i+1))}jar.cookie=[...map].map(([k,v])=>`${k}=${v}`).join('; ')}return res}
 function expect(value,message){if(!value)throw Error(message)}
 async function json(path,jar,body,method='POST'){return request(path,jar,{method,headers:{'Content-Type':'application/json'},body:JSON.stringify(body)})}
