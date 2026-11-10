@@ -1,0 +1,1857 @@
+{
+  "Overview": {
+    "fr": "Vue d’ensemble",
+    "es": "Resumen",
+    "ru": "Обзор",
+    "zh": "概览",
+    "ar": "نظرة عامة"
+  },
+  "Resource library": {
+    "fr": "Bibliothèque de ressources",
+    "es": "Biblioteca de recursos",
+    "ru": "Библиотека ресурсов",
+    "zh": "资源库",
+    "ar": "مكتبة الموارد"
+  },
+  "Account": {
+    "fr": "Compte",
+    "es": "Cuenta",
+    "ru": "Учётная запись",
+    "zh": "账户",
+    "ar": "الحساب"
+  },
+  "PARTNER WORKSPACE": {
+    "fr": "ESPACE PARTENAIRE",
+    "es": "ESPACIO DE LA ORGANIZACIÓN",
+    "ru": "РАБОЧЕЕ ПРОСТРАНСТВО ПАРТНЁРА",
+    "zh": "合作伙伴工作区",
+    "ar": "مساحة عمل الشريك"
+  },
+  "Partner workspace": {
+    "fr": "Espace partenaire",
+    "es": "Espacio de la organización",
+    "ru": "Рабочее пространство партнёра",
+    "zh": "合作伙伴工作区",
+    "ar": "مساحة عمل الشريك"
+  },
+  "Global Fund": {
+    "fr": "Fonds mondial",
+    "es": "Fondo Mundial",
+    "ru": "Глобальный фонд",
+    "zh": "全球基金",
+    "ar": "الصندوق العالمي"
+  },
+  "Global Fund Partnership": {
+    "fr": "Partenariat avec le Fonds mondial",
+    "es": "Alianza con el Fondo Mundial",
+    "ru": "Партнёрство с Глобальным фондом",
+    "zh": "全球基金伙伴关系",
+    "ar": "الشراكة مع الصندوق العالمي"
+  },
+  "Partnership &": {
+    "fr": "Partenariat et",
+    "es": "Alianza y",
+    "ru": "Партнёрство и",
+    "zh": "伙伴关系与",
+    "ar": "الشراكة و"
+  },
+  "Health Systems": {
+    "fr": "Systèmes de santé",
+    "es": "Sistemas de salud",
+    "ru": "Системы здравоохранения",
+    "zh": "卫生系统",
+    "ar": "النظم الصحية"
+  },
+  "& Health Systems": {
+    "fr": "et systèmes de santé",
+    "es": "y sistemas de salud",
+    "ru": "и системы здравоохранения",
+    "zh": "与卫生系统",
+    "ar": "والنظم الصحية"
+  },
+  "Global Fund Partnership & Health Systems": {
+    "fr": "Partenariat avec le Fonds mondial et systèmes de santé",
+    "es": "Alianza con el Fondo Mundial y Sistemas de Salud",
+    "ru": "Партнёрство с Глобальным фондом и системы здравоохранения",
+    "zh": "全球基金伙伴关系与卫生系统",
+    "ar": "الشراكة مع الصندوق العالمي والنظم الصحية"
+  },
+  "United Nations Development Programme": {
+    "fr": "Programme des Nations Unies pour le développement",
+    "es": "Programa de las Naciones Unidas para el Desarrollo",
+    "ru": "Программа развития Организации Объединённых Наций",
+    "zh": "联合国开发计划署",
+    "ar": "برنامج الأمم المتحدة الإنمائي"
+  },
+  "PSEAH Compliance Tracker": {
+    "fr": "Suivi de conformité PSEAH",
+    "es": "Seguimiento del cumplimiento de PSEAH",
+    "ru": "Мониторинг соблюдения стандартов PSEAH",
+    "zh": "防止性剥削、性虐待和性骚扰合规跟踪器",
+    "ar": "متتبّع الامتثال لمنع الاستغلال والانتهاك والتحرش الجنسي"
+  },
+  "PSEAH PARTNER COMPLIANCE": {
+    "fr": "CONFORMITÉ PSEAH DES PARTENAIRES",
+    "es": "CUMPLIMIENTO DE PSEAH DE LAS ORGANIZACIONES",
+    "ru": "СОБЛЮДЕНИЕ СТАНДАРТОВ PSEAH ПАРТНЁРАМИ",
+    "zh": "合作伙伴防止性剥削、性虐待和性骚扰合规",
+    "ar": "امتثال الشركاء لمنع الاستغلال والانتهاك والتحرش الجنسي"
+  },
+  "Private workspace": {
+    "fr": "Espace privé",
+    "es": "Espacio privado",
+    "ru": "Личное пространство",
+    "zh": "私密工作区",
+    "ar": "مساحة عمل خاصة"
+  },
+  "Help & support": {
+    "fr": "Aide et assistance",
+    "es": "Ayuda y asistencia",
+    "ru": "Помощь и поддержка",
+    "zh": "帮助与支持",
+    "ar": "المساعدة والدعم"
+  },
+  "Safer programmes.": {
+    "fr": "Des programmes plus sûrs.",
+    "es": "Programas más seguros.",
+    "ru": "Более безопасные программы.",
+    "zh": "更安全的项目。",
+    "ar": "برامج أكثر أماناً."
+  },
+  "Stronger communities.": {
+    "fr": "Des communautés plus fortes.",
+    "es": "Comunidades más fuertes.",
+    "ru": "Более устойчивые сообщества.",
+    "zh": "更强大的社区。",
+    "ar": "مجتمعات أقوى."
+  },
+  "Prevention starts with the systems we build together.": {
+    "fr": "La prévention commence par les systèmes que nous construisons ensemble.",
+    "es": "La prevención comienza con los sistemas que construimos juntos.",
+    "ru": "Профилактика начинается с систем, которые мы создаём вместе.",
+    "zh": "预防始于我们共同建立的制度。",
+    "ar": "تبدأ الوقاية بالنظم التي نبنيها معاً."
+  },
+  "Meet the UNDP team": {
+    "fr": "Rencontrer l’équipe du PNUD",
+    "es": "Conozca al equipo del PNUD",
+    "ru": "Знакомство с командой ПРООН",
+    "zh": "了解开发署团队",
+    "ar": "تعرّف على فريق البرنامج الإنمائي"
+  },
+  "Sub-recipient": {
+    "fr": "Sous-bénéficiaire",
+    "es": "Subreceptor",
+    "ru": "Субполучатель",
+    "zh": "次级受款方",
+    "ar": "المستفيد الفرعي"
+  },
+  "Your account": {
+    "fr": "Votre compte",
+    "es": "Su cuenta",
+    "ru": "Ваша учётная запись",
+    "zh": "您的账户",
+    "ar": "حسابك"
+  },
+  "Loading your workspace…": {
+    "fr": "Chargement de votre espace…",
+    "es": "Cargando su espacio…",
+    "ru": "Загрузка рабочего пространства…",
+    "zh": "正在加载您的工作区…",
+    "ar": "جارٍ تحميل مساحة عملك…"
+  },
+  "WELCOME TO YOUR PARTNER WORKSPACE": {
+    "fr": "BIENVENUE DANS VOTRE ESPACE PARTENAIRE",
+    "es": "BIENVENIDO A SU ESPACIO DE TRABAJO",
+    "ru": "ДОБРО ПОЖАЛОВАТЬ В ПРОСТРАНСТВО ПАРТНЁРА",
+    "zh": "欢迎使用合作伙伴工作区",
+    "ar": "مرحباً بك في مساحة عمل الشريك"
+  },
+  "A safer future starts here.": {
+    "fr": "Un avenir plus sûr commence ici.",
+    "es": "Un futuro más seguro comienza aquí.",
+    "ru": "Более безопасное будущее начинается здесь.",
+    "zh": "更安全的未来从这里开始。",
+    "ar": "مستقبل أكثر أماناً يبدأ هنا."
+  },
+  "Set up your organization’s PSEAH tracker with a few essential details. Then track your compliance with the eight required standards.": {
+    "fr": "Configurez le suivi PSEAH de votre organisation en renseignant quelques informations essentielles. Suivez ensuite votre conformité aux huit normes requises.",
+    "es": "Configure el seguimiento de PSEAH de su organización con unos pocos datos esenciales. Después, supervise su cumplimiento de las ocho normas obligatorias.",
+    "ru": "Укажите основные сведения об организации, чтобы настроить мониторинг PSEAH. Затем отслеживайте соблюдение восьми обязательных стандартов.",
+    "zh": "填写少量基本信息，设置您组织的合规跟踪器，然后跟踪八项必备标准的合规情况。",
+    "ar": "أدخل بعض المعلومات الأساسية لإعداد متتبّع مؤسستك، ثم تابع امتثالك للمعايير الثمانية المطلوبة."
+  },
+  "Your organization": {
+    "fr": "Votre organisation",
+    "es": "Su organización",
+    "ru": "Ваша организация",
+    "zh": "您的组织",
+    "ar": "مؤسستك"
+  },
+  "About 2 minutes": {
+    "fr": "Environ 2 minutes",
+    "es": "Unos 2 minutos",
+    "ru": "Около 2 минут",
+    "zh": "约2分钟",
+    "ar": "حوالي دقيقتين"
+  },
+  "Organization name": {
+    "fr": "Nom de l’organisation",
+    "es": "Nombre de la organización",
+    "ru": "Название организации",
+    "zh": "组织名称",
+    "ar": "اسم المؤسسة"
+  },
+  "Country of implementation": {
+    "fr": "Pays de mise en œuvre",
+    "es": "País de ejecución",
+    "ru": "Страна реализации",
+    "zh": "实施国家",
+    "ar": "بلد التنفيذ"
+  },
+  "Contact name": {
+    "fr": "Nom du contact",
+    "es": "Nombre de contacto",
+    "ru": "Контактное лицо",
+    "zh": "联系人姓名",
+    "ar": "اسم جهة الاتصال"
+  },
+  "Contact email": {
+    "fr": "Adresse e-mail du contact",
+    "es": "Correo de contacto",
+    "ru": "Контактный адрес электронной почты",
+    "zh": "联系电子邮箱",
+    "ar": "البريد الإلكتروني لجهة الاتصال"
+  },
+  "Grant reference (optional)": {
+    "fr": "Référence de la subvention (facultatif)",
+    "es": "Referencia de la subvención (opcional)",
+    "ru": "Номер гранта (необязательно)",
+    "zh": "赠款编号（可选）",
+    "ar": "مرجع المنحة (اختياري)"
+  },
+  "Funding received (optional)": {
+    "fr": "Financement reçu (facultatif)",
+    "es": "Financiación recibida (opcional)",
+    "ru": "Полученное финансирование (необязательно)",
+    "zh": "已获资金（可选）",
+    "ar": "التمويل المستلم (اختياري)"
+  },
+  "Funding currency": {
+    "fr": "Devise du financement",
+    "es": "Moneda de financiación",
+    "ru": "Валюта финансирования",
+    "zh": "资金币种",
+    "ar": "عملة التمويل"
+  },
+  "Full name": {
+    "fr": "Nom complet",
+    "es": "Nombre completo",
+    "ru": "Полное имя",
+    "zh": "全名",
+    "ar": "الاسم الكامل"
+  },
+  "Country": {
+    "fr": "Pays",
+    "es": "País",
+    "ru": "Страна",
+    "zh": "国家",
+    "ar": "البلد"
+  },
+  "Grant reference": {
+    "fr": "Référence de la subvention",
+    "es": "Referencia de la subvención",
+    "ru": "Номер гранта",
+    "zh": "赠款编号",
+    "ar": "مرجع المنحة"
+  },
+  "e.g. Community Health Network": {
+    "fr": "p. ex. Réseau de santé communautaire",
+    "es": "p. ej. Red de Salud Comunitaria",
+    "ru": "Например, сеть общественного здравоохранения",
+    "zh": "例如：社区卫生网络",
+    "ar": "مثلاً: شبكة الصحة المجتمعية"
+  },
+  "e.g. Zambia": {
+    "fr": "p. ex. Zambie",
+    "es": "p. ej. Zambia",
+    "ru": "Например, Замбия",
+    "zh": "例如：赞比亚",
+    "ar": "مثلاً: زامبيا"
+  },
+  "e.g. ZMB-H-UNDP": {
+    "fr": "p. ex. ZMB-H-UNDP",
+    "es": "p. ej. ZMB-H-UNDP",
+    "ru": "Например, ZMB-H-UNDP",
+    "zh": "例如：ZMB-H-UNDP",
+    "ar": "مثلاً: ZMB-H-UNDP"
+  },
+  "Use your sub-recipient grant details. You can update these at any time in Account.": {
+    "fr": "Utilisez les informations de votre subvention en tant que sous-bénéficiaire. Vous pouvez les modifier à tout moment dans Compte.",
+    "es": "Utilice los datos de su subvención como subreceptor. Puede actualizarlos en Cuenta en cualquier momento.",
+    "ru": "Укажите сведения о гранте субполучателя. Их можно изменить в разделе учётной записи в любое время.",
+    "zh": "请填写次级受款方的赠款信息。您可随时在账户中更新。",
+    "ar": "استخدم بيانات منحتك كمستفيد فرعي. يمكنك تحديثها في صفحة الحساب في أي وقت."
+  },
+  "Create my tracker": {
+    "fr": "Créer mon suivi",
+    "es": "Crear mi seguimiento",
+    "ru": "Создать средство мониторинга",
+    "zh": "创建我的跟踪器",
+    "ar": "إنشاء المتتبّع"
+  },
+  "Save account details": {
+    "fr": "Enregistrer les informations",
+    "es": "Guardar los datos de la cuenta",
+    "ru": "Сохранить данные учётной записи",
+    "zh": "保存账户信息",
+    "ar": "حفظ بيانات الحساب"
+  },
+  "PREVENTION. ACCOUNTABILITY. PROGRESS.": {
+    "fr": "PRÉVENTION. RESPONSABILITÉ. PROGRÈS.",
+    "es": "PREVENCIÓN. RESPONSABILIDAD. PROGRESO.",
+    "ru": "ПРОФИЛАКТИКА. ПОДОТЧЁТНОСТЬ. ПРОГРЕСС.",
+    "zh": "预防。问责。进步。",
+    "ar": "وقاية. مساءلة. تقدّم."
+  },
+  "Your compliance overview": {
+    "fr": "Votre conformité en bref",
+    "es": "Resumen de su cumplimiento",
+    "ru": "Обзор соблюдения стандартов",
+    "zh": "您的合规概览",
+    "ar": "نظرة عامة على امتثالك"
+  },
+  "Build a safer organization, one standard at a time.": {
+    "fr": "Renforcez la sécurité de votre organisation, une norme à la fois.",
+    "es": "Construya una organización más segura, norma por norma.",
+    "ru": "Повышайте безопасность организации, последовательно выполняя стандарты.",
+    "zh": "逐项落实标准，建设更安全的组织。",
+    "ar": "ابنِ مؤسسة أكثر أماناً، معياراً تلو الآخر."
+  },
+  "Export overview": {
+    "fr": "Exporter la synthèse",
+    "es": "Exportar resumen",
+    "ru": "Экспортировать обзор",
+    "zh": "导出概览",
+    "ar": "تصدير النظرة العامة"
+  },
+  "FUNDING RECEIVED": {
+    "fr": "FINANCEMENT REÇU",
+    "es": "FINANCIACIÓN RECIBIDA",
+    "ru": "ПОЛУЧЕННОЕ ФИНАНСИРОВАНИЕ",
+    "zh": "已获资金",
+    "ar": "التمويل المستلم"
+  },
+  "Not specified": {
+    "fr": "Non renseigné",
+    "es": "Sin especificar",
+    "ru": "Не указано",
+    "zh": "未填写",
+    "ar": "غير محدد"
+  },
+  "Edit details": {
+    "fr": "Modifier les informations",
+    "es": "Editar datos",
+    "ru": "Изменить сведения",
+    "zh": "编辑信息",
+    "ar": "تعديل البيانات"
+  },
+  "Grant": {
+    "fr": "Subvention",
+    "es": "Subvención",
+    "ru": "Грант",
+    "zh": "赠款",
+    "ar": "المنحة"
+  },
+  "Overall compliance": {
+    "fr": "Conformité globale",
+    "es": "Cumplimiento general",
+    "ru": "Общее соблюдение стандартов",
+    "zh": "总体合规情况",
+    "ar": "الامتثال العام"
+  },
+  "of 8 standards met": {
+    "fr": "sur 8 normes respectées",
+    "es": "de 8 normas cumplidas",
+    "ru": "из 8 стандартов выполнено",
+    "zh": "项标准已达标，共8项",
+    "ar": "من أصل 8 معايير مستوفاة"
+  },
+  "Compliant": {
+    "fr": "Conforme",
+    "es": "Conforme",
+    "ru": "Соответствует",
+    "zh": "合规",
+    "ar": "ممتثل"
+  },
+  "In Progress": {
+    "fr": "En cours",
+    "es": "En curso",
+    "ru": "В процессе",
+    "zh": "进行中",
+    "ar": "قيد التنفيذ"
+  },
+  "In progress": {
+    "fr": "En cours",
+    "es": "En curso",
+    "ru": "В процессе",
+    "zh": "进行中",
+    "ar": "قيد التنفيذ"
+  },
+  "Noncompliant": {
+    "fr": "Non conforme",
+    "es": "No conforme",
+    "ru": "Не соответствует",
+    "zh": "不合规",
+    "ar": "غير ممتثل"
+  },
+  "Standards meeting requirements": {
+    "fr": "Normes respectant les exigences",
+    "es": "Normas que cumplen los requisitos",
+    "ru": "Стандарты, соответствующие требованиям",
+    "zh": "符合要求的标准",
+    "ar": "معايير مستوفاة"
+  },
+  "Standards you’re working on": {
+    "fr": "Normes en cours de mise en œuvre",
+    "es": "Normas en las que está trabajando",
+    "ru": "Стандарты в процессе выполнения",
+    "zh": "正在推进的标准",
+    "ar": "معايير تعمل عليها"
+  },
+  "Standards requiring attention": {
+    "fr": "Normes nécessitant une attention",
+    "es": "Normas que requieren atención",
+    "ru": "Стандарты, требующие внимания",
+    "zh": "需要关注的标准",
+    "ar": "معايير تتطلب الاهتمام"
+  },
+  "The 8 core standards": {
+    "fr": "Les 8 normes fondamentales",
+    "es": "Las 8 normas básicas",
+    "ru": "8 основных стандартов",
+    "zh": "八项核心标准",
+    "ar": "المعايير الأساسية الثمانية"
+  },
+  "Self-assessment": {
+    "fr": "Auto-évaluation",
+    "es": "Autoevaluación",
+    "ru": "Самооценка",
+    "zh": "自我评估",
+    "ar": "تقييم ذاتي"
+  },
+  "Select a standard to review requirements, update progress and add evidence.": {
+    "fr": "Sélectionnez une norme pour consulter les exigences, mettre à jour vos progrès et ajouter des justificatifs.",
+    "es": "Seleccione una norma para revisar los requisitos, actualizar el progreso y añadir pruebas.",
+    "ru": "Выберите стандарт, чтобы изучить требования, обновить прогресс и добавить подтверждения.",
+    "zh": "选择标准以查看要求、更新进度并添加证明材料。",
+    "ar": "اختر معياراً لمراجعة المتطلبات وتحديث التقدّم وإضافة الأدلة."
+  },
+  "Sort by": {
+    "fr": "Trier par",
+    "es": "Ordenar por",
+    "ru": "Сортировать по",
+    "zh": "排序方式",
+    "ar": "الترتيب حسب"
+  },
+  "Sort standards": {
+    "fr": "Trier les normes",
+    "es": "Ordenar las normas",
+    "ru": "Сортировка стандартов",
+    "zh": "标准排序",
+    "ar": "ترتيب المعايير"
+  },
+  "Standard number": {
+    "fr": "Numéro de norme",
+    "es": "Número de norma",
+    "ru": "Номер стандарта",
+    "zh": "标准编号",
+    "ar": "رقم المعيار"
+  },
+  "Compliance: noncompliant first": {
+    "fr": "Conformité : non conformes d’abord",
+    "es": "Cumplimiento: no conformes primero",
+    "ru": "Сначала несоответствующие",
+    "zh": "合规状态：不合规优先",
+    "ar": "الامتثال: غير الممتثل أولاً"
+  },
+  "Compliance: compliant first": {
+    "fr": "Conformité : conformes d’abord",
+    "es": "Cumplimiento: conformes primero",
+    "ru": "Сначала соответствующие",
+    "zh": "合规状态：合规优先",
+    "ar": "الامتثال: الممتثل أولاً"
+  },
+  "All standards": {
+    "fr": "Toutes les normes",
+    "es": "Todas las normas",
+    "ru": "Все стандарты",
+    "zh": "全部标准",
+    "ar": "جميع المعايير"
+  },
+  "All changes saved": {
+    "fr": "Toutes les modifications sont enregistrées",
+    "es": "Todos los cambios guardados",
+    "ru": "Все изменения сохранены",
+    "zh": "所有更改已保存",
+    "ar": "تم حفظ جميع التغييرات"
+  },
+  "Ready to begin": {
+    "fr": "Prêt à commencer",
+    "es": "Listo para empezar",
+    "ru": "Готово к началу",
+    "zh": "可以开始",
+    "ar": "جاهز للبدء"
+  },
+  "STANDARD": {
+    "fr": "NORME",
+    "es": "NORMA",
+    "ru": "СТАНДАРТ",
+    "zh": "标准",
+    "ar": "المعيار"
+  },
+  "OF 08": {
+    "fr": "SUR 08",
+    "es": "DE 08",
+    "ru": "ИЗ 08",
+    "zh": "／08",
+    "ar": "من 08"
+  },
+  "of": {
+    "fr": "sur",
+    "es": "de",
+    "ru": "из",
+    "zh": "／",
+    "ar": "من"
+  },
+  "options completed": {
+    "fr": "options terminées",
+    "es": "opciones completadas",
+    "ru": "вариантов выполнено",
+    "zh": "个选项已完成",
+    "ar": "خيارات مكتملة"
+  },
+  "No standards in this category": {
+    "fr": "Aucune norme dans cette catégorie",
+    "es": "No hay normas en esta categoría",
+    "ru": "В этой категории нет стандартов",
+    "zh": "此类别中暂无标准",
+    "ar": "لا توجد معايير في هذه الفئة"
+  },
+  "Your overview will update as you make progress.": {
+    "fr": "Votre synthèse évoluera au fil de vos progrès.",
+    "es": "Su resumen se actualizará a medida que avance.",
+    "ru": "Обзор будет обновляться по мере вашего продвижения.",
+    "zh": "概览会随您的进度更新。",
+    "ar": "ستتحدّث النظرة العامة مع تقدّمك."
+  },
+  "Show all standards": {
+    "fr": "Afficher toutes les normes",
+    "es": "Mostrar todas las normas",
+    "ru": "Показать все стандарты",
+    "zh": "显示全部标准",
+    "ar": "عرض جميع المعايير"
+  },
+  "Every step counts.": {
+    "fr": "Chaque étape compte.",
+    "es": "Cada paso cuenta.",
+    "ru": "Каждый шаг важен.",
+    "zh": "每一步都重要。",
+    "ar": "كل خطوة مهمة."
+  },
+  "Complete any one evidence option to mark a standard compliant. Optionally upload your supporting documents to keep all evidence in one place.": {
+    "fr": "Terminez l’une des options de preuve pour déclarer une norme conforme. Vous pouvez télécharger vos justificatifs pour regrouper toutes vos preuves au même endroit.",
+    "es": "Complete cualquiera de las opciones de prueba para marcar una norma como conforme. Opcionalmente, cargue sus documentos justificativos para reunir todas las pruebas en un solo lugar.",
+    "ru": "Выполните любой один вариант подтверждения, чтобы отметить стандарт как соблюдённый. При желании загрузите подтверждающие документы, чтобы хранить все материалы в одном месте.",
+    "zh": "完成任一证明选项，即可将该标准标记为合规。您也可上传支持文件，将所有证明材料集中保存在一处。",
+    "ar": "أكمل أي خيار إثبات واحد لتمييز المعيار بأنه ممتثل. ويمكنك اختيارياً رفع مستنداتك الداعمة للاحتفاظ بجميع الأدلة في مكان واحد."
+  },
+  "Explore resources": {
+    "fr": "Explorer les ressources",
+    "es": "Explorar recursos",
+    "ru": "Посмотреть ресурсы",
+    "zh": "浏览资源",
+    "ar": "استكشاف الموارد"
+  },
+  "YOUR PARTNER PROFILE": {
+    "fr": "VOTRE PROFIL PARTENAIRE",
+    "es": "PERFIL DE SU ORGANIZACIÓN",
+    "ru": "ПРОФИЛЬ ПАРТНЁРА",
+    "zh": "您的合作伙伴资料",
+    "ar": "ملف الشريك"
+  },
+  "Account & organization": {
+    "fr": "Compte et organisation",
+    "es": "Cuenta y organización",
+    "ru": "Учётная запись и организация",
+    "zh": "账户与组织",
+    "ar": "الحساب والمؤسسة"
+  },
+  "Keep your organization and grant details up to date.": {
+    "fr": "Maintenez à jour les informations de votre organisation et de votre subvention.",
+    "es": "Mantenga actualizados los datos de su organización y subvención.",
+    "ru": "Поддерживайте сведения об организации и гранте в актуальном состоянии.",
+    "zh": "及时更新您的组织及赠款信息。",
+    "ar": "حافظ على تحديث بيانات مؤسستك ومنحتك."
+  },
+  "Organization details": {
+    "fr": "Informations sur l’organisation",
+    "es": "Datos de la organización",
+    "ru": "Сведения об организации",
+    "zh": "组织信息",
+    "ar": "بيانات المؤسسة"
+  },
+  "Here to support your progress": {
+    "fr": "À vos côtés pour progresser",
+    "es": "Apoyo para su progreso",
+    "ru": "Поддержка вашего прогресса",
+    "zh": "助您持续进步",
+    "ar": "هنا لدعم تقدّمك"
+  },
+  "For questions about PSEAH requirements, contact your UNDP focal point or visit the team’s website.": {
+    "fr": "Pour toute question sur les exigences PSEAH, contactez votre point focal du PNUD ou consultez le site de l’équipe.",
+    "es": "Si tiene preguntas sobre los requisitos de PSEAH, contacte a su punto focal del PNUD o visite el sitio web del equipo.",
+    "ru": "По вопросам требований PSEAH обращайтесь к координатору ПРООН или посетите сайт команды.",
+    "zh": "如对相关要求有疑问，请联系您的开发署协调人或访问团队网站。",
+    "ar": "للاستفسار عن المتطلبات، تواصل مع منسّقك في البرنامج الإنمائي أو زُر موقع الفريق."
+  },
+  "Signed in as": {
+    "fr": "Connecté en tant que",
+    "es": "Sesión iniciada como",
+    "ru": "Вы вошли как",
+    "zh": "当前登录账户",
+    "ar": "تم تسجيل الدخول باسم"
+  },
+  "Sign out": {
+    "fr": "Se déconnecter",
+    "es": "Cerrar sesión",
+    "ru": "Выйти",
+    "zh": "退出登录",
+    "ar": "تسجيل الخروج"
+  },
+  "PRACTICAL TOOLS FOR PROGRESS": {
+    "fr": "DES OUTILS CONCRETS POUR PROGRESSER",
+    "es": "HERRAMIENTAS PRÁCTICAS PARA AVANZAR",
+    "ru": "ПРАКТИЧЕСКИЕ ИНСТРУМЕНТЫ ДЛЯ ПРОГРЕССА",
+    "zh": "助您进步的实用工具",
+    "ar": "أدوات عملية للتقدّم"
+  },
+  "Your resource library": {
+    "fr": "Votre bibliothèque de ressources",
+    "es": "Su biblioteca de recursos",
+    "ru": "Ваша библиотека ресурсов",
+    "zh": "您的资源库",
+    "ar": "مكتبة مواردك"
+  },
+  "Templates and guidance to help you put each standard into practice.": {
+    "fr": "Des modèles et des conseils pour mettre chaque norme en pratique.",
+    "es": "Plantillas y orientación para aplicar cada norma.",
+    "ru": "Шаблоны и рекомендации для внедрения каждого стандарта.",
+    "zh": "帮助您落实各项标准的模板与指南。",
+    "ar": "نماذج وإرشادات تساعدك على تطبيق كل معيار."
+  },
+  "resources · 7 standards": {
+    "fr": "ressources · 7 normes",
+    "es": "recursos · 7 normas",
+    "ru": "ресурсов · 7 стандартов",
+    "zh": "份资源 · 涵盖7项标准",
+    "ar": "مورداً · 7 معايير"
+  },
+  "Adapt these templates to your organization, local context and procedures. The supplied resources primarily address PSEA; review coverage of sexual harassment within your organization’s policies.": {
+    "fr": "Adaptez ces modèles à votre organisation, à votre contexte local et à vos procédures. Les ressources fournies concernent principalement la PSEA ; vérifiez la prise en compte du harcèlement sexuel dans vos politiques.",
+    "es": "Adapte estas plantillas a su organización, contexto local y procedimientos. Los recursos se centran principalmente en la PSEA; revise cómo sus políticas abordan el acoso sexual.",
+    "ru": "Адаптируйте шаблоны к своей организации, местным условиям и процедурам. Ресурсы в основном посвящены PSEA; проверьте, как политики организации охватывают сексуальные домогательства.",
+    "zh": "请根据您的组织、当地背景和程序调整模板。所提供的资源主要涉及防止性剥削和性虐待；请检查组织政策对性骚扰的涵盖情况。",
+    "ar": "كيّف هذه النماذج مع مؤسستك والسياق المحلي وإجراءاتك. تتناول الموارد أساساً منع الاستغلال والانتهاك الجنسي؛ فراجع مدى تناول سياسات مؤسستك للتحرش الجنسي."
+  },
+  "No resource was included for this standard. Use the evidence options and consult your UNDP focal point for guidance.": {
+    "fr": "Aucune ressource n’a été fournie pour cette norme. Consultez les options de preuve et votre point focal du PNUD.",
+    "es": "No se proporcionaron recursos para esta norma. Consulte las opciones de prueba y a su punto focal del PNUD.",
+    "ru": "Для этого стандарта ресурсы не предоставлены. Используйте варианты подтверждения и обратитесь к координатору ПРООН.",
+    "zh": "此标准未附带资源。请参考证明选项，并向您的开发署协调人寻求指导。",
+    "ar": "لم تُرفق موارد لهذا المعيار. استخدم خيارات الإثبات واستشر منسّقك في البرنامج الإنمائي."
+  },
+  "Review standard": {
+    "fr": "Consulter la norme",
+    "es": "Revisar norma",
+    "ru": "Просмотреть стандарт",
+    "zh": "查看标准",
+    "ar": "مراجعة المعيار"
+  },
+  "Further guidance": {
+    "fr": "Conseils complémentaires",
+    "es": "Orientación adicional",
+    "ru": "Дополнительные рекомендации",
+    "zh": "更多指导",
+    "ar": "إرشادات إضافية"
+  },
+  "UNDP: Assessing sub-recipient capacity": {
+    "fr": "PNUD : évaluer les capacités des sous-bénéficiaires",
+    "es": "PNUD: evaluación de la capacidad de los subreceptores",
+    "ru": "ПРООН: оценка потенциала субполучателей",
+    "zh": "开发署：次级受款方能力评估",
+    "ar": "البرنامج الإنمائي: تقييم قدرات المستفيدين الفرعيين"
+  },
+  "UN Partner Portal: PSEA resource library": {
+    "fr": "Portail des partenaires de l’ONU : ressources PSEA",
+    "es": "Portal de Socios de la ONU: recursos de PSEA",
+    "ru": "Портал партнёров ООН: библиотека ресурсов PSEA",
+    "zh": "联合国合作伙伴门户：防止性剥削和性虐待资源库",
+    "ar": "بوابة شركاء الأمم المتحدة: مكتبة موارد منع الاستغلال والانتهاك الجنسي"
+  },
+  "UNDP · Global Fund Partnership & Health Systems": {
+    "fr": "PNUD · Partenariat avec le Fonds mondial et systèmes de santé",
+    "es": "PNUD · Alianza con el Fondo Mundial y Sistemas de Salud",
+    "ru": "ПРООН · Партнёрство с Глобальным фондом и системы здравоохранения",
+    "zh": "开发署 · 全球基金伙伴关系与卫生系统",
+    "ar": "البرنامج الإنمائي · الشراكة مع الصندوق العالمي والنظم الصحية"
+  },
+  "Self-assessment tracker · Formal assessment remains subject to UNDP review.": {
+    "fr": "Outil d’auto-évaluation · L’évaluation officielle reste soumise à l’examen du PNUD.",
+    "es": "Seguimiento de autoevaluación · La evaluación formal sigue sujeta a la revisión del PNUD.",
+    "ru": "Мониторинг самооценки · Официальная оценка подлежит проверке ПРООН.",
+    "zh": "自我评估跟踪器 · 正式评估仍须经开发署审核。",
+    "ar": "متتبّع التقييم الذاتي · يظل التقييم الرسمي خاضعاً لمراجعة البرنامج الإنمائي."
+  },
+  "Close standard": {
+    "fr": "Fermer la norme",
+    "es": "Cerrar norma",
+    "ru": "Закрыть стандарт",
+    "zh": "关闭标准",
+    "ar": "إغلاق المعيار"
+  },
+  "Ways to meet this standard": {
+    "fr": "Moyens de satisfaire cette norme",
+    "es": "Formas de cumplir esta norma",
+    "ru": "Способы выполнения стандарта",
+    "zh": "满足此标准的方式",
+    "ar": "طرق استيفاء هذا المعيار"
+  },
+  "Complete at least one option below. You can change any status at any time.": {
+    "fr": "Terminez au moins une option ci-dessous. Vous pouvez modifier les statuts à tout moment.",
+    "es": "Complete al menos una opción. Puede cambiar cualquier estado en todo momento.",
+    "ru": "Выполните хотя бы один вариант ниже. Статус можно изменить в любое время.",
+    "zh": "至少完成以下一个选项。您可随时更改状态。",
+    "ar": "أكمل خياراً واحداً على الأقل أدناه. يمكنك تغيير أي حالة في أي وقت."
+  },
+  "Not Started": {
+    "fr": "Non commencé",
+    "es": "Sin iniciar",
+    "ru": "Не начато",
+    "zh": "未开始",
+    "ar": "لم يبدأ"
+  },
+  "Completed": {
+    "fr": "Terminé",
+    "es": "Completado",
+    "ru": "Выполнено",
+    "zh": "已完成",
+    "ar": "مكتمل"
+  },
+  "Attach evidence": {
+    "fr": "Joindre un justificatif",
+    "es": "Adjuntar prueba",
+    "ru": "Прикрепить подтверждение",
+    "zh": "附加证明材料",
+    "ar": "إرفاق دليل"
+  },
+  "Optional": {
+    "fr": "Facultatif",
+    "es": "Opcional",
+    "ru": "Необязательно",
+    "zh": "可选",
+    "ar": "اختياري"
+  },
+  "Uploading…": {
+    "fr": "Téléchargement…",
+    "es": "Cargando…",
+    "ru": "Загрузка…",
+    "zh": "正在上传…",
+    "ar": "جارٍ الرفع…"
+  },
+  "Up to 10 MB per file · PDF, Word, Excel, images or text. Use redacted organizational documents; keep identifiable survivor information in your confidential case-management system.": {
+    "fr": "10 Mo maximum par fichier · PDF, Word, Excel, images ou texte. Utilisez des documents anonymisés ; conservez les informations identifiant les survivants dans votre système confidentiel de gestion des cas.",
+    "es": "Hasta 10 MB por archivo · PDF, Word, Excel, imágenes o texto. Utilice documentos con datos sensibles ocultos; conserve la información que identifique a sobrevivientes en su sistema confidencial de gestión de casos.",
+    "ru": "До 10 МБ на файл · PDF, Word, Excel, изображения или текст. Используйте документы с удалёнными персональными данными; сведения, позволяющие установить личность пострадавших, храните в конфиденциальной системе ведения дел.",
+    "zh": "每个文件最大10 MB · 支持PDF、Word、Excel、图片或文本。请使用已隐去敏感信息的组织文件；可识别幸存者身份的信息应保存在保密的个案管理系统中。",
+    "ar": "حتى 10 ميغابايت لكل ملف · PDF أو Word أو Excel أو صور أو نص. استخدم مستندات مؤسسية منقّحة، واحتفظ بمعلومات هوية الناجين في نظام إدارة الحالات السري."
+  },
+  "Resources for this standard": {
+    "fr": "Ressources pour cette norme",
+    "es": "Recursos para esta norma",
+    "ru": "Ресурсы по этому стандарту",
+    "zh": "此标准的资源",
+    "ar": "موارد هذا المعيار"
+  },
+  "No template was supplied for standard 8. Contact your UNDP focal point for support with corrective action.": {
+    "fr": "Aucun modèle n’a été fourni pour la norme 8. Contactez votre point focal du PNUD pour un appui aux mesures correctives.",
+    "es": "No se proporcionó plantilla para la norma 8. Contacte a su punto focal del PNUD para recibir apoyo en las medidas correctivas.",
+    "ru": "Для стандарта 8 шаблон не предоставлен. За поддержкой по корректирующим мерам обратитесь к координатору ПРООН.",
+    "zh": "标准8未提供模板。如需纠正行动方面的支持，请联系您的开发署协调人。",
+    "ar": "لم يُرفق نموذج للمعيار 8. تواصل مع منسّقك في البرنامج الإنمائي لدعم الإجراءات التصحيحية."
+  },
+  "Previous": {
+    "fr": "Précédent",
+    "es": "Anterior",
+    "ru": "Назад",
+    "zh": "上一项",
+    "ar": "السابق"
+  },
+  "Next standard": {
+    "fr": "Norme suivante",
+    "es": "Siguiente norma",
+    "ru": "Следующий стандарт",
+    "zh": "下一项标准",
+    "ar": "المعيار التالي"
+  },
+  "Done": {
+    "fr": "Terminer",
+    "es": "Listo",
+    "ru": "Готово",
+    "zh": "完成",
+    "ar": "تم"
+  },
+  "Changes save automatically": {
+    "fr": "Les modifications sont enregistrées automatiquement",
+    "es": "Los cambios se guardan automáticamente",
+    "ru": "Изменения сохраняются автоматически",
+    "zh": "更改自动保存",
+    "ar": "تُحفظ التغييرات تلقائياً"
+  },
+  "Saving…": {
+    "fr": "Enregistrement…",
+    "es": "Guardando…",
+    "ru": "Сохранение…",
+    "zh": "正在保存…",
+    "ar": "جارٍ الحفظ…"
+  },
+  "Undo last change": {
+    "fr": "Annuler la dernière modification",
+    "es": "Deshacer el último cambio",
+    "ru": "Отменить последнее изменение",
+    "zh": "撤销上次更改",
+    "ar": "التراجع عن آخر تغيير"
+  },
+  "Undo": {
+    "fr": "Annuler",
+    "es": "Deshacer",
+    "ru": "Отменить",
+    "zh": "撤销",
+    "ar": "تراجع"
+  },
+  "Changes saved": {
+    "fr": "Modifications enregistrées",
+    "es": "Cambios guardados",
+    "ru": "Изменения сохранены",
+    "zh": "更改已保存",
+    "ar": "تم حفظ التغييرات"
+  },
+  "Change undone": {
+    "fr": "Modification annulée",
+    "es": "Cambio deshecho",
+    "ru": "Изменение отменено",
+    "zh": "已撤销更改",
+    "ar": "تم التراجع عن التغيير"
+  },
+  "Evidence uploaded": {
+    "fr": "Justificatif ajouté",
+    "es": "Prueba cargada",
+    "ru": "Подтверждение загружено",
+    "zh": "证明材料已上传",
+    "ar": "تم رفع الدليل"
+  },
+  "Evidence removed": {
+    "fr": "Justificatif supprimé",
+    "es": "Prueba eliminada",
+    "ru": "Подтверждение удалено",
+    "zh": "证明材料已移除",
+    "ar": "تمت إزالة الدليل"
+  },
+  "Dismiss error": {
+    "fr": "Fermer le message d’erreur",
+    "es": "Cerrar el error",
+    "ru": "Закрыть ошибку",
+    "zh": "关闭错误提示",
+    "ar": "إغلاق رسالة الخطأ"
+  },
+  "Dismiss notification": {
+    "fr": "Fermer la notification",
+    "es": "Cerrar notificación",
+    "ru": "Закрыть уведомление",
+    "zh": "关闭通知",
+    "ar": "إغلاق الإشعار"
+  },
+  "Retry": {
+    "fr": "Réessayer",
+    "es": "Reintentar",
+    "ru": "Повторить",
+    "zh": "重试",
+    "ar": "إعادة المحاولة"
+  },
+  "Status": {
+    "fr": "Statut",
+    "es": "Estado",
+    "ru": "Статус",
+    "zh": "状态",
+    "ar": "الحالة"
+  },
+  "Standard": {
+    "fr": "Norme",
+    "es": "Norma",
+    "ru": "Стандарт",
+    "zh": "标准",
+    "ar": "المعيار"
+  },
+  "Title": {
+    "fr": "Intitulé",
+    "es": "Título",
+    "ru": "Название",
+    "zh": "标题",
+    "ar": "العنوان"
+  },
+  "Evidence option": {
+    "fr": "Option de preuve",
+    "es": "Opción de prueba",
+    "ru": "Вариант подтверждения",
+    "zh": "证明选项",
+    "ar": "خيار الإثبات"
+  },
+  "Option status": {
+    "fr": "Statut de l’option",
+    "es": "Estado de la opción",
+    "ru": "Статус варианта",
+    "zh": "选项状态",
+    "ar": "حالة الخيار"
+  },
+  "Attached files": {
+    "fr": "Fichiers joints",
+    "es": "Archivos adjuntos",
+    "ru": "Прикреплённые файлы",
+    "zh": "附件",
+    "ar": "الملفات المرفقة"
+  },
+  "Welcome back": {
+    "fr": "Heureux de vous revoir",
+    "es": "Le damos la bienvenida",
+    "ru": "С возвращением",
+    "zh": "欢迎回来",
+    "ar": "مرحباً بعودتك"
+  },
+  "Create your workspace": {
+    "fr": "Créer votre espace",
+    "es": "Cree su espacio",
+    "ru": "Создайте рабочее пространство",
+    "zh": "创建您的工作区",
+    "ar": "أنشئ مساحة عملك"
+  },
+  "Create account": {
+    "fr": "Créer un compte",
+    "es": "Crear cuenta",
+    "ru": "Создать учётную запись",
+    "zh": "创建账户",
+    "ar": "إنشاء حساب"
+  },
+  "Create an account": {
+    "fr": "Créer un compte",
+    "es": "Crear una cuenta",
+    "ru": "Создать учётную запись",
+    "zh": "创建账户",
+    "ar": "إنشاء حساب"
+  },
+  "Set up your account and organization in one short step. Then track your compliance with the eight required standards.": {
+    "fr": "Configurez votre compte et votre organisation en une seule étape rapide. Suivez ensuite votre conformité aux huit normes requises.",
+    "es": "Configure su cuenta y organización en un solo paso breve. Después, supervise el cumplimiento de las ocho normas obligatorias.",
+    "ru": "Настройте учётную запись и организацию за один короткий шаг. Затем отслеживайте соблюдение восьми обязательных стандартов.",
+    "zh": "只需一个简短步骤，即可设置账户和组织信息，然后跟踪八项必备标准的合规情况。",
+    "ar": "أنشئ حسابك وبيانات مؤسستك بخطوة قصيرة، ثم تابع امتثالك للمعايير الثمانية المطلوبة."
+  },
+  "One place to track the eight required PSEAH standards, organize evidence and strengthen your organization’s capacity.": {
+    "fr": "Un espace unique pour suivre les huit normes PSEAH requises, organiser les justificatifs et renforcer les capacités de votre organisation.",
+    "es": "Un solo lugar para seguir las ocho normas obligatorias de PSEAH, organizar las pruebas y fortalecer la capacidad de su organización.",
+    "ru": "Единое пространство для отслеживания восьми обязательных стандартов PSEAH, организации подтверждений и укрепления потенциала организации.",
+    "zh": "在同一处跟踪八项必备标准、整理论证材料并加强组织能力。",
+    "ar": "مكان واحد لمتابعة المعايير الثمانية المطلوبة وتنظيم الأدلة وتعزيز قدرات مؤسستك."
+  },
+  "Understand the requirements": {
+    "fr": "Comprendre les exigences",
+    "es": "Comprenda los requisitos",
+    "ru": "Изучите требования",
+    "zh": "了解要求",
+    "ar": "افهم المتطلبات"
+  },
+  "Track your progress": {
+    "fr": "Suivre vos progrès",
+    "es": "Siga su progreso",
+    "ru": "Отслеживайте прогресс",
+    "zh": "跟踪进度",
+    "ar": "تابع تقدّمك"
+  },
+  "Keep evidence together": {
+    "fr": "Regrouper les justificatifs",
+    "es": "Reúna las pruebas",
+    "ru": "Храните подтверждения вместе",
+    "zh": "集中保存证明材料",
+    "ar": "اجمع الأدلة في مكان واحد"
+  },
+  "Your sign-in details": {
+    "fr": "Vos identifiants",
+    "es": "Sus datos de acceso",
+    "ru": "Данные для входа",
+    "zh": "您的登录信息",
+    "ar": "بيانات تسجيل الدخول"
+  },
+  "Email address": {
+    "fr": "Adresse e-mail",
+    "es": "Correo electrónico",
+    "ru": "Адрес электронной почты",
+    "zh": "电子邮箱",
+    "ar": "البريد الإلكتروني"
+  },
+  "Password": {
+    "fr": "Mot de passe",
+    "es": "Contraseña",
+    "ru": "Пароль",
+    "zh": "密码",
+    "ar": "كلمة المرور"
+  },
+  "New password": {
+    "fr": "Nouveau mot de passe",
+    "es": "Nueva contraseña",
+    "ru": "Новый пароль",
+    "zh": "新密码",
+    "ar": "كلمة مرور جديدة"
+  },
+  "Confirm password": {
+    "fr": "Confirmer le mot de passe",
+    "es": "Confirmar contraseña",
+    "ru": "Подтвердите пароль",
+    "zh": "确认密码",
+    "ar": "تأكيد كلمة المرور"
+  },
+  "Use at least 12 characters.": {
+    "fr": "Utilisez au moins 12 caractères.",
+    "es": "Utilice al menos 12 caracteres.",
+    "ru": "Используйте не менее 12 символов.",
+    "zh": "请至少使用12个字符。",
+    "ar": "استخدم 12 حرفاً على الأقل."
+  },
+  "Forgot password?": {
+    "fr": "Mot de passe oublié ?",
+    "es": "¿Olvidó su contraseña?",
+    "ru": "Забыли пароль?",
+    "zh": "忘记密码？",
+    "ar": "نسيت كلمة المرور؟"
+  },
+  "Sign in": {
+    "fr": "Se connecter",
+    "es": "Iniciar sesión",
+    "ru": "Войти",
+    "zh": "登录",
+    "ar": "تسجيل الدخول"
+  },
+  "Sign in to continue your organization’s self-assessment.": {
+    "fr": "Connectez-vous pour poursuivre l’auto-évaluation de votre organisation.",
+    "es": "Inicie sesión para continuar la autoevaluación de su organización.",
+    "ru": "Войдите, чтобы продолжить самооценку организации.",
+    "zh": "登录以继续组织的自我评估。",
+    "ar": "سجّل الدخول لمتابعة التقييم الذاتي لمؤسستك."
+  },
+  "Already have an account?": {
+    "fr": "Vous avez déjà un compte ?",
+    "es": "¿Ya tiene una cuenta?",
+    "ru": "Уже есть учётная запись?",
+    "zh": "已有账户？",
+    "ar": "هل لديك حساب بالفعل؟"
+  },
+  "New to the tracker?": {
+    "fr": "Vous découvrez cet outil ?",
+    "es": "¿Es nuevo en el seguimiento?",
+    "ru": "Впервые здесь?",
+    "zh": "首次使用？",
+    "ar": "هل تستخدم المتتبّع لأول مرة؟"
+  },
+  "Back to sign in": {
+    "fr": "Retour à la connexion",
+    "es": "Volver al inicio de sesión",
+    "ru": "Вернуться ко входу",
+    "zh": "返回登录",
+    "ar": "العودة لتسجيل الدخول"
+  },
+  "Reset your password": {
+    "fr": "Réinitialiser votre mot de passe",
+    "es": "Restablezca su contraseña",
+    "ru": "Сбросьте пароль",
+    "zh": "重置密码",
+    "ar": "إعادة تعيين كلمة المرور"
+  },
+  "Enter your account email to receive a password reset link.": {
+    "fr": "Saisissez l’adresse e-mail de votre compte pour recevoir un lien de réinitialisation.",
+    "es": "Introduzca el correo de su cuenta para recibir un enlace de restablecimiento.",
+    "ru": "Укажите адрес электронной почты учётной записи, чтобы получить ссылку для сброса пароля.",
+    "zh": "输入账户邮箱以接收密码重置链接。",
+    "ar": "أدخل بريد حسابك لتلقّي رابط إعادة تعيين كلمة المرور."
+  },
+  "Send reset link": {
+    "fr": "Envoyer le lien",
+    "es": "Enviar enlace",
+    "ru": "Отправить ссылку",
+    "zh": "发送重置链接",
+    "ar": "إرسال رابط إعادة التعيين"
+  },
+  "Choose a new password": {
+    "fr": "Choisir un nouveau mot de passe",
+    "es": "Elija una nueva contraseña",
+    "ru": "Выберите новый пароль",
+    "zh": "设置新密码",
+    "ar": "اختر كلمة مرور جديدة"
+  },
+  "Use a strong password you haven’t used elsewhere.": {
+    "fr": "Utilisez un mot de passe fort et unique.",
+    "es": "Utilice una contraseña segura que no haya usado en otro sitio.",
+    "ru": "Используйте надёжный пароль, который вы не применяли на других сайтах.",
+    "zh": "请使用未在其他网站使用过的高强度密码。",
+    "ar": "استخدم كلمة مرور قوية لم تستخدمها في موقع آخر."
+  },
+  "Save new password": {
+    "fr": "Enregistrer le nouveau mot de passe",
+    "es": "Guardar nueva contraseña",
+    "ru": "Сохранить новый пароль",
+    "zh": "保存新密码",
+    "ar": "حفظ كلمة المرور الجديدة"
+  },
+  "Your organization’s progress and documents stay in your account.": {
+    "fr": "Les progrès et documents de votre organisation restent dans votre compte.",
+    "es": "El progreso y los documentos de su organización permanecen en su cuenta.",
+    "ru": "Прогресс и документы организации хранятся в вашей учётной записи.",
+    "zh": "您组织的进度和文件保存在您的账户中。",
+    "ar": "تظلّ بيانات تقدّم مؤسستك ومستنداتها في حسابك."
+  },
+  "PSEAH self-assessment · Global Fund Partnership & Health Systems": {
+    "fr": "Auto-évaluation PSEAH · Partenariat avec le Fonds mondial et systèmes de santé",
+    "es": "Autoevaluación de PSEAH · Alianza con el Fondo Mundial y Sistemas de Salud",
+    "ru": "Самооценка PSEAH · Партнёрство с Глобальным фондом и системы здравоохранения",
+    "zh": "自我评估 · 全球基金伙伴关系与卫生系统",
+    "ar": "التقييم الذاتي · الشراكة مع الصندوق العالمي والنظم الصحية"
+  },
+  "The passwords do not match.": {
+    "fr": "Les mots de passe ne correspondent pas.",
+    "es": "Las contraseñas no coinciden.",
+    "ru": "Пароли не совпадают.",
+    "zh": "两次输入的密码不一致。",
+    "ar": "كلمتا المرور غير متطابقتين."
+  },
+  "If an account exists for this email, a password reset link will arrive shortly.": {
+    "fr": "Si un compte existe pour cette adresse, vous recevrez bientôt un lien de réinitialisation.",
+    "es": "Si existe una cuenta con este correo, recibirá un enlace de restablecimiento en breve.",
+    "ru": "Если учётная запись с таким адресом существует, вскоре придёт ссылка для сброса пароля.",
+    "zh": "如该邮箱已注册，您将很快收到密码重置链接。",
+    "ar": "إذا كان هناك حساب بهذا البريد، فستصلك رسالة إعادة تعيين كلمة المرور قريباً."
+  },
+  "Check your email to confirm your account, then sign in. If you already have an account, you can sign in or reset your password.": {
+    "fr": "Consultez vos e-mails pour confirmer votre compte, puis connectez-vous. Si vous avez déjà un compte, connectez-vous ou réinitialisez votre mot de passe.",
+    "es": "Revise su correo para confirmar su cuenta e iniciar sesión. Si ya tiene una cuenta, inicie sesión o restablezca su contraseña.",
+    "ru": "Подтвердите учётную запись по ссылке в письме, затем войдите. Если учётная запись уже существует, войдите или сбросьте пароль.",
+    "zh": "请查收邮件并确认账户，然后登录。如果您已有账户，可直接登录或重置密码。",
+    "ar": "تحقّق من بريدك لتأكيد الحساب ثم سجّل الدخول. إذا كان لديك حساب بالفعل، فيمكنك تسجيل الدخول أو إعادة تعيين كلمة المرور."
+  },
+  "This independent workspace is being connected to its account service. Registration will be available once setup is complete.": {
+    "fr": "Cet espace est en cours de connexion au service de comptes. L’inscription sera disponible une fois la configuration terminée.",
+    "es": "Se está conectando este espacio al servicio de cuentas. El registro estará disponible cuando finalice la configuración.",
+    "ru": "Рабочее пространство подключается к службе учётных записей. Регистрация будет доступна после настройки.",
+    "zh": "正在连接账户服务。设置完成后即可注册。",
+    "ar": "يجري ربط مساحة العمل بخدمة الحسابات. سيتاح التسجيل بعد اكتمال الإعداد."
+  },
+  "We could not load your tracker. Please try again.": {
+    "fr": "Impossible de charger votre suivi. Réessayez.",
+    "es": "No se pudo cargar su seguimiento. Inténtelo de nuevo.",
+    "ru": "Не удалось загрузить данные. Повторите попытку.",
+    "zh": "无法加载跟踪器，请重试。",
+    "ar": "تعذّر تحميل المتتبّع. حاول مجدداً."
+  },
+  "Could not load your tracker. Please try again.": {
+    "fr": "Impossible de charger votre suivi. Réessayez.",
+    "es": "No se pudo cargar su seguimiento. Inténtelo de nuevo.",
+    "ru": "Не удалось загрузить данные. Повторите попытку.",
+    "zh": "无法加载跟踪器，请重试。",
+    "ar": "تعذّر تحميل المتتبّع. حاول مجدداً."
+  },
+  "Could not save your tracker. Please try again.": {
+    "fr": "Impossible d’enregistrer votre suivi. Réessayez.",
+    "es": "No se pudo guardar su seguimiento. Inténtelo de nuevo.",
+    "ru": "Не удалось сохранить данные. Повторите попытку.",
+    "zh": "无法保存跟踪器，请重试。",
+    "ar": "تعذّر حفظ المتتبّع. حاول مجدداً."
+  },
+  "Could not sign out. Please try again.": {
+    "fr": "Déconnexion impossible. Réessayez.",
+    "es": "No se pudo cerrar la sesión. Inténtelo de nuevo.",
+    "ru": "Не удалось выйти. Повторите попытку.",
+    "zh": "无法退出登录，请重试。",
+    "ar": "تعذّر تسجيل الخروج. حاول مجدداً."
+  },
+  "Could not remove the file.": {
+    "fr": "Impossible de supprimer le fichier.",
+    "es": "No se pudo eliminar el archivo.",
+    "ru": "Не удалось удалить файл.",
+    "zh": "无法移除文件。",
+    "ar": "تعذّرت إزالة الملف."
+  },
+  "Could not remove file. Please try again.": {
+    "fr": "Impossible de supprimer le fichier. Réessayez.",
+    "es": "No se pudo eliminar el archivo. Inténtelo de nuevo.",
+    "ru": "Не удалось удалить файл. Повторите попытку.",
+    "zh": "无法移除文件，请重试。",
+    "ar": "تعذّرت إزالة الملف. حاول مجدداً."
+  },
+  "Could not remove file record. Please try again.": {
+    "fr": "Impossible de supprimer l’enregistrement du fichier. Réessayez.",
+    "es": "No se pudo eliminar el registro del archivo. Inténtelo de nuevo.",
+    "ru": "Не удалось удалить запись о файле. Повторите попытку.",
+    "zh": "无法移除文件记录，请重试。",
+    "ar": "تعذّرت إزالة سجل الملف. حاول مجدداً."
+  },
+  "Could not save evidence. Please try again.": {
+    "fr": "Impossible d’enregistrer le justificatif. Réessayez.",
+    "es": "No se pudo guardar la prueba. Inténtelo de nuevo.",
+    "ru": "Не удалось сохранить подтверждение. Повторите попытку.",
+    "zh": "无法保存证明材料，请重试。",
+    "ar": "تعذّر حفظ الدليل. حاول مجدداً."
+  },
+  "Could not upload evidence. Please try again.": {
+    "fr": "Impossible d’ajouter le justificatif. Réessayez.",
+    "es": "No se pudo cargar la prueba. Inténtelo de nuevo.",
+    "ru": "Не удалось загрузить подтверждение. Повторите попытку.",
+    "zh": "无法上传证明材料，请重试。",
+    "ar": "تعذّر رفع الدليل. حاول مجدداً."
+  },
+  "Could not verify the uploaded file.": {
+    "fr": "Impossible de vérifier le fichier téléchargé.",
+    "es": "No se pudo verificar el archivo cargado.",
+    "ru": "Не удалось проверить загруженный файл.",
+    "zh": "无法验证已上传文件。",
+    "ar": "تعذّر التحقّق من الملف المرفوع."
+  },
+  "Choose a PDF, Word, Excel, image or text file up to 10 MB": {
+    "fr": "Choisissez un fichier PDF, Word, Excel, image ou texte de 10 Mo maximum",
+    "es": "Elija un archivo PDF, Word, Excel, imagen o texto de hasta 10 MB",
+    "ru": "Выберите PDF, Word, Excel, изображение или текст размером до 10 МБ",
+    "zh": "请选择不超过10 MB的PDF、Word、Excel、图片或文本文件",
+    "ar": "اختر ملف PDF أو Word أو Excel أو صورة أو نصاً بحجم لا يتجاوز 10 ميغابايت"
+  },
+  "Please sign in again before uploading.": {
+    "fr": "Reconnectez-vous avant d’ajouter un fichier.",
+    "es": "Vuelva a iniciar sesión antes de cargar archivos.",
+    "ru": "Войдите снова перед загрузкой.",
+    "zh": "请重新登录后再上传。",
+    "ar": "سجّل الدخول مجدداً قبل الرفع."
+  },
+  "Please try again.": {
+    "fr": "Veuillez réessayer.",
+    "es": "Inténtelo de nuevo.",
+    "ru": "Повторите попытку.",
+    "zh": "请重试。",
+    "ar": "حاول مجدداً."
+  },
+  "Please check your details and try again.": {
+    "fr": "Vérifiez vos informations et réessayez.",
+    "es": "Revise sus datos e inténtelo de nuevo.",
+    "ru": "Проверьте данные и повторите попытку.",
+    "zh": "请检查信息并重试。",
+    "ar": "تحقّق من بياناتك وحاول مجدداً."
+  },
+  "Organization details are required.": {
+    "fr": "Les informations de l’organisation sont obligatoires.",
+    "es": "Los datos de la organización son obligatorios.",
+    "ru": "Необходимо указать сведения об организации.",
+    "zh": "请填写组织信息。",
+    "ar": "بيانات المؤسسة مطلوبة."
+  },
+  "Check your organization details.": {
+    "fr": "Vérifiez les informations de votre organisation.",
+    "es": "Revise los datos de su organización.",
+    "ru": "Проверьте сведения об организации.",
+    "zh": "请检查组织信息。",
+    "ar": "تحقّق من بيانات مؤسستك."
+  },
+  "Check your organization and funding details.": {
+    "fr": "Vérifiez les informations de votre organisation et du financement.",
+    "es": "Revise los datos de su organización y financiación.",
+    "ru": "Проверьте сведения об организации и финансировании.",
+    "zh": "请检查组织及资金信息。",
+    "ar": "تحقّق من بيانات المؤسسة والتمويل."
+  },
+  "Enter a valid email address.": {
+    "fr": "Saisissez une adresse e-mail valide.",
+    "es": "Introduzca un correo electrónico válido.",
+    "ru": "Введите действительный адрес электронной почты.",
+    "zh": "请输入有效的电子邮箱。",
+    "ar": "أدخل عنوان بريد إلكتروني صالحاً."
+  },
+  "Enter your password.": {
+    "fr": "Saisissez votre mot de passe.",
+    "es": "Introduzca su contraseña.",
+    "ru": "Введите пароль.",
+    "zh": "请输入密码。",
+    "ar": "أدخل كلمة المرور."
+  },
+  "Use at least 12 characters for your password.": {
+    "fr": "Utilisez au moins 12 caractères pour votre mot de passe.",
+    "es": "Utilice al menos 12 caracteres para su contraseña.",
+    "ru": "Пароль должен содержать не менее 12 символов.",
+    "zh": "密码至少需要12个字符。",
+    "ar": "استخدم 12 حرفاً على الأقل لكلمة المرور."
+  },
+  "Use a password between 12 and 128 characters.": {
+    "fr": "Utilisez un mot de passe de 12 à 128 caractères.",
+    "es": "Utilice una contraseña de entre 12 y 128 caracteres.",
+    "ru": "Используйте пароль длиной от 12 до 128 символов.",
+    "zh": "密码长度应为12至128个字符。",
+    "ar": "استخدم كلمة مرور من 12 إلى 128 حرفاً."
+  },
+  "Unable to sign in. Check your email and password, and confirm your email if you recently registered.": {
+    "fr": "Connexion impossible. Vérifiez votre e-mail et votre mot de passe et confirmez votre adresse si vous venez de vous inscrire.",
+    "es": "No se pudo iniciar sesión. Revise su correo y contraseña y confirme el correo si se registró recientemente.",
+    "ru": "Не удалось войти. Проверьте почту и пароль; если вы недавно зарегистрировались, подтвердите адрес.",
+    "zh": "无法登录。请检查邮箱和密码；如果您刚注册，请确认邮箱。",
+    "ar": "تعذّر تسجيل الدخول. تحقّق من البريد وكلمة المرور، وأكّد بريدك إذا كنت قد سجّلت حديثاً."
+  },
+  "Unable to create your account. Please try again or sign in if you already registered.": {
+    "fr": "Impossible de créer votre compte. Réessayez ou connectez-vous si vous êtes déjà inscrit.",
+    "es": "No se pudo crear su cuenta. Inténtelo de nuevo o inicie sesión si ya se registró.",
+    "ru": "Не удалось создать учётную запись. Повторите попытку или войдите, если уже зарегистрировались.",
+    "zh": "无法创建账户。请重试；如已注册，请直接登录。",
+    "ar": "تعذّر إنشاء الحساب. حاول مجدداً أو سجّل الدخول إذا كنت مسجّلاً بالفعل."
+  },
+  "Please open a valid password reset link.": {
+    "fr": "Ouvrez un lien de réinitialisation valide.",
+    "es": "Abra un enlace de restablecimiento válido.",
+    "ru": "Откройте действительную ссылку для сброса пароля.",
+    "zh": "请打开有效的密码重置链接。",
+    "ar": "افتح رابطاً صالحاً لإعادة تعيين كلمة المرور."
+  },
+  "Could not update your password. Please request a new reset link.": {
+    "fr": "Impossible de modifier votre mot de passe. Demandez un nouveau lien.",
+    "es": "No se pudo actualizar su contraseña. Solicite un nuevo enlace.",
+    "ru": "Не удалось изменить пароль. Запросите новую ссылку.",
+    "zh": "无法更新密码。请申请新的重置链接。",
+    "ar": "تعذّر تحديث كلمة المرور. اطلب رابط إعادة تعيين جديداً."
+  },
+  "Your sign-in link is invalid or expired. Please try again.": {
+    "fr": "Votre lien de connexion est invalide ou expiré. Réessayez.",
+    "es": "El enlace de acceso no es válido o ha caducado. Inténtelo de nuevo.",
+    "ru": "Ссылка для входа недействительна или истекла. Повторите попытку.",
+    "zh": "登录链接无效或已过期，请重试。",
+    "ar": "رابط تسجيل الدخول غير صالح أو منتهي الصلاحية. حاول مجدداً."
+  },
+  "Account services are not configured yet.": {
+    "fr": "Les services de comptes ne sont pas encore configurés.",
+    "es": "Los servicios de cuentas aún no están configurados.",
+    "ru": "Служба учётных записей ещё не настроена.",
+    "zh": "账户服务尚未配置。",
+    "ar": "لم تُضبط خدمات الحسابات بعد."
+  },
+  "Unauthorized": {
+    "fr": "Non autorisé",
+    "es": "No autorizado",
+    "ru": "Нет авторизации",
+    "zh": "未授权",
+    "ar": "غير مصرح"
+  },
+  "Not found": {
+    "fr": "Introuvable",
+    "es": "No encontrado",
+    "ru": "Не найдено",
+    "zh": "未找到",
+    "ar": "غير موجود"
+  },
+  "Invalid action.": {
+    "fr": "Action invalide.",
+    "es": "Acción no válida.",
+    "ru": "Недопустимое действие.",
+    "zh": "操作无效。",
+    "ar": "إجراء غير صالح."
+  },
+  "Invalid data": {
+    "fr": "Données invalides",
+    "es": "Datos no válidos",
+    "ru": "Недопустимые данные",
+    "zh": "数据无效",
+    "ar": "بيانات غير صالحة"
+  },
+  "Invalid file details": {
+    "fr": "Informations de fichier invalides",
+    "es": "Datos del archivo no válidos",
+    "ru": "Недопустимые сведения о файле",
+    "zh": "文件信息无效",
+    "ar": "بيانات ملف غير صالحة"
+  },
+  "Invalid progress.": {
+    "fr": "Progrès invalides.",
+    "es": "Progreso no válido.",
+    "ru": "Недопустимые данные о прогрессе.",
+    "zh": "进度数据无效。",
+    "ar": "بيانات تقدّم غير صالحة."
+  },
+  "Invalid request origin": {
+    "fr": "Origine de la requête invalide",
+    "es": "Origen de solicitud no válido",
+    "ru": "Недопустимый источник запроса",
+    "zh": "请求来源无效",
+    "ar": "مصدر طلب غير صالح"
+  },
+  "Invalid request origin.": {
+    "fr": "Origine de la requête invalide.",
+    "es": "Origen de solicitud no válido.",
+    "ru": "Недопустимый источник запроса.",
+    "zh": "请求来源无效。",
+    "ar": "مصدر طلب غير صالح."
+  },
+  "Invalid status.": {
+    "fr": "Statut invalide.",
+    "es": "Estado no válido.",
+    "ru": "Недопустимый статус.",
+    "zh": "状态无效。",
+    "ar": "حالة غير صالحة."
+  },
+  "JSON required": {
+    "fr": "Format JSON requis",
+    "es": "Se requiere JSON",
+    "ru": "Требуется JSON",
+    "zh": "需要JSON格式",
+    "ar": "صيغة JSON مطلوبة"
+  },
+  "JSON required.": {
+    "fr": "Format JSON requis.",
+    "es": "Se requiere JSON.",
+    "ru": "Требуется JSON.",
+    "zh": "需要JSON格式。",
+    "ar": "صيغة JSON مطلوبة."
+  },
+  "Remove “{name}”? You can upload it again later.": {
+    "fr": "Supprimer « {name} » ? Vous pourrez l’ajouter à nouveau.",
+    "es": "¿Eliminar «{name}»? Puede volver a cargarlo después.",
+    "ru": "Удалить «{name}»? Его можно загрузить снова позже.",
+    "zh": "移除“{name}”？您可稍后重新上传。",
+    "ar": "هل تريد إزالة «{name}»؟ يمكنك رفعه مجدداً لاحقاً."
+  },
+  "Status: {name}": {
+    "fr": "Statut : {name}",
+    "es": "Estado: {name}",
+    "ru": "Статус: {name}",
+    "zh": "状态：{name}",
+    "ar": "الحالة: {name}"
+  },
+  "Remove {name}": {
+    "fr": "Supprimer {name}",
+    "es": "Eliminar {name}",
+    "ru": "Удалить {name}",
+    "zh": "移除{name}",
+    "ar": "إزالة {name}"
+  },
+  "{count}/8 compliant": {
+    "fr": "{count}/8 conformes",
+    "es": "{count}/8 conformes",
+    "ru": "{count}/8 соблюдено",
+    "zh": "{count}/8合规",
+    "ar": "{count}/8 ممتثل"
+  },
+  "{count} of 8 standards compliant": {
+    "fr": "{count} normes conformes sur 8",
+    "es": "{count} de 8 normas conformes",
+    "ru": "{count} из 8 стандартов соблюдено",
+    "zh": "8项标准中有{count}项合规",
+    "ar": "{count} من أصل 8 معايير ممتثلة"
+  },
+  "Language": {
+    "fr": "Langue",
+    "es": "Idioma",
+    "ru": "Язык",
+    "zh": "语言",
+    "ar": "اللغة"
+  },
+  "KB": {
+    "fr": "Ko",
+    "es": "KB",
+    "ru": "КБ",
+    "zh": "KB",
+    "ar": "كيلوبايت"
+  },
+  "Unable to sign in. Check your email and password.": {
+    "fr": "Connexion impossible. Vérifiez votre e-mail et votre mot de passe.",
+    "es": "No se pudo iniciar sesión. Revise su correo y contraseña.",
+    "ru": "Не удалось войти. Проверьте адрес электронной почты и пароль.",
+    "zh": "无法登录，请检查邮箱和密码。",
+    "ar": "تعذّر تسجيل الدخول. تحقّق من البريد وكلمة المرور."
+  },
+  "Email password recovery is not available yet.": {
+    "fr": "La récupération du mot de passe par e-mail n’est pas encore disponible.",
+    "es": "La recuperación de contraseñas por correo aún no está disponible.",
+    "ru": "Восстановление пароля по почте пока недоступно.",
+    "zh": "邮箱密码找回功能尚未开通。",
+    "ar": "استعادة كلمة المرور بالبريد غير متاحة بعد."
+  },
+  "Organizational Policy": {
+    "fr": "Politique organisationnelle",
+    "es": "Política de la organización",
+    "ru": "Политика организации",
+    "zh": "组织政策",
+    "ar": "السياسة المؤسسية"
+  },
+  "Establish a shared commitment to preventing sexual misconduct.": {
+    "fr": "Établir un engagement commun pour prévenir les inconduites sexuelles.",
+    "es": "Establecer un compromiso común para prevenir las conductas sexuales indebidas.",
+    "ru": "Закрепите общую приверженность предотвращению сексуальных проступков.",
+    "zh": "共同承诺预防性不当行为。",
+    "ar": "ترسيخ التزام مشترك بمنع سوء السلوك الجنسي."
+  },
+  "Does your organization have a policy document on the prevention of and response to sexual misconduct?": {
+    "fr": "Votre organisation dispose-t-elle d’un document de politique sur la prévention des inconduites sexuelles et la réponse à celles-ci ?",
+    "es": "¿Dispone su organización de un documento de política sobre la prevención y respuesta a las conductas sexuales indebidas?",
+    "ru": "Есть ли в организации документ, определяющий политику предотвращения сексуальных проступков и реагирования на них?",
+    "zh": "您的组织是否制定了预防和应对性不当行为的政策文件？",
+    "ar": "هل لدى مؤسستك وثيقة سياسة لمنع سوء السلوك الجنسي والاستجابة له؟"
+  },
+  "Code of Conduct (internal or interagency)": {
+    "fr": "Code de conduite (interne ou interorganisations)",
+    "es": "Código de conducta (interno o interinstitucional)",
+    "ru": "Кодекс поведения (внутренний или межучрежденческий)",
+    "zh": "行为准则（内部或机构间）",
+    "ar": "مدوّنة قواعد السلوك (داخلية أو مشتركة بين الوكالات)"
+  },
+  "Sexual misconduct policy": {
+    "fr": "Politique relative aux inconduites sexuelles",
+    "es": "Política sobre conductas sexuales indebidas",
+    "ru": "Политика в отношении сексуальных проступков",
+    "zh": "性不当行为政策",
+    "ar": "سياسة بشأن سوء السلوك الجنسي"
+  },
+  "Documented procedures for all personnel to receive and sign the sexual misconduct policy": {
+    "fr": "Procédures documentées pour la réception et la signature de la politique par tout le personnel",
+    "es": "Procedimientos documentados para que todo el personal reciba y firme la política sobre conductas sexuales indebidas",
+    "ru": "Документированные процедуры получения и подписания политики всеми сотрудниками",
+    "zh": "全体人员领取并签署性不当行为政策的书面程序",
+    "ar": "إجراءات موثّقة لتسلّم جميع العاملين سياسة سوء السلوك الجنسي والتوقيع عليها"
+  },
+  "Organizational Management": {
+    "fr": "Gestion organisationnelle",
+    "es": "Gestión de la organización",
+    "ru": "Управление организацией",
+    "zh": "组织管理",
+    "ar": "الإدارة المؤسسية"
+  },
+  "Build prevention and response into your partnerships.": {
+    "fr": "Intégrer la prévention et la réponse dans vos partenariats.",
+    "es": "Integrar la prevención y la respuesta en sus alianzas.",
+    "ru": "Включите профилактику и реагирование в партнёрские отношения.",
+    "zh": "将预防和应对措施纳入合作关系。",
+    "ar": "إدماج الوقاية والاستجابة في شراكاتك."
+  },
+  "Do your contracts and partnership agreements include a standard clause requiring subcontractors to adopt policies prohibiting sexual misconduct and take measures to prevent and respond to it?": {
+    "fr": "Vos contrats et accords de partenariat comportent-ils une clause exigeant des sous-traitants qu’ils adoptent des politiques interdisant les inconduites sexuelles et prennent des mesures de prévention et de réponse ?",
+    "es": "¿Incluyen sus contratos y acuerdos de asociación una cláusula que exija a los subcontratistas adoptar políticas que prohíban las conductas sexuales indebidas y tomar medidas para prevenirlas y responder a ellas?",
+    "ru": "Содержат ли договоры и партнёрские соглашения стандартное положение, обязывающее субподрядчиков принимать политику запрета сексуальных проступков и меры по их предотвращению и реагированию?",
+    "zh": "您的合同和伙伴协议是否包含标准条款，要求分包商制定禁止性不当行为的政策，并采取预防和应对措施？",
+    "ar": "هل تتضمّن عقودك واتفاقيات شراكتك بنداً موحّداً يلزم المتعاقدين من الباطن باعتماد سياسات تحظر سوء السلوك الجنسي واتخاذ تدابير لمنعه والاستجابة له؟"
+  },
+  "Contracts or partnership agreements for subcontractors": {
+    "fr": "Contrats ou accords de partenariat avec les sous-traitants",
+    "es": "Contratos o acuerdos de asociación para subcontratistas",
+    "ru": "Договоры или партнёрские соглашения с субподрядчиками",
+    "zh": "分包商合同或伙伴协议",
+    "ar": "عقود أو اتفاقيات شراكة مع المتعاقدين من الباطن"
+  },
+  "Human Resources Systems": {
+    "fr": "Systèmes de ressources humaines",
+    "es": "Sistemas de recursos humanos",
+    "ru": "Системы управления персоналом",
+    "zh": "人力资源系统",
+    "ar": "نظم الموارد البشرية"
+  },
+  "Make safe recruitment part of every hiring decision.": {
+    "fr": "Faire du recrutement sûr une composante de chaque décision d’embauche.",
+    "es": "Incorporar la contratación segura en cada decisión de selección.",
+    "ru": "Обеспечьте безопасный подбор кадров при каждом найме.",
+    "zh": "将安全招聘融入每一次录用决定。",
+    "ar": "جعل التوظيف الآمن جزءاً من كل قرار تعيين."
+  },
+  "Does your organization have a systematic vetting procedure for job candidates through proper screening?": {
+    "fr": "Votre organisation dispose-t-elle d’une procédure systématique de vérification des candidats au recrutement ?",
+    "es": "¿Dispone su organización de un procedimiento sistemático de verificación de antecedentes de los candidatos mediante una selección adecuada?",
+    "ru": "Есть ли в организации систематическая процедура надлежащей проверки кандидатов на работу?",
+    "zh": "您的组织是否建立了对求职者进行适当筛查的系统性审查程序？",
+    "ar": "هل لدى مؤسستك إجراء منهجي لتدقيق المرشحين للوظائف من خلال الفحص المناسب؟"
+  },
+  "Reference check template including sexual misconduct checks, previous employer references and self-declaration": {
+    "fr": "Modèle de vérification des références incluant les inconduites sexuelles, les références d’anciens employeurs et l’auto-déclaration",
+    "es": "Plantilla de verificación de referencias que incluya conductas sexuales indebidas, referencias de empleadores anteriores y autodeclaración",
+    "ru": "Шаблон проверки рекомендаций, включающий проверку сексуальных проступков, отзывы предыдущих работодателей и личную декларацию",
+    "zh": "包含性不当行为核查、前雇主推荐和自我声明的背景调查模板",
+    "ar": "نموذج للتحقّق من المراجع يشمل سوء السلوك الجنسي ومراجع أصحاب العمل السابقين والإقرار الذاتي"
+  },
+  "Recruitment procedures": {
+    "fr": "Procédures de recrutement",
+    "es": "Procedimientos de contratación",
+    "ru": "Процедуры найма",
+    "zh": "招聘程序",
+    "ar": "إجراءات التوظيف"
+  },
+  "Mandatory Training": {
+    "fr": "Formation obligatoire",
+    "es": "Formación obligatoria",
+    "ru": "Обязательное обучение",
+    "zh": "强制培训",
+    "ar": "التدريب الإلزامي"
+  },
+  "Equip all personnel with the knowledge to prevent harm.": {
+    "fr": "Donner à tout le personnel les connaissances nécessaires pour prévenir les préjudices.",
+    "es": "Dotar a todo el personal de conocimientos para prevenir daños.",
+    "ru": "Обеспечьте всех сотрудников знаниями для предотвращения вреда.",
+    "zh": "让全体人员掌握预防伤害的知识。",
+    "ar": "تزويد جميع العاملين بالمعرفة اللازمة لمنع الضرر."
+  },
+  "Does your organization hold mandatory training, online or in person, for all personnel on prevention of sexual misconduct and relevant procedures?": {
+    "fr": "Votre organisation organise-t-elle des formations obligatoires, en ligne ou en présentiel, pour tout le personnel sur la prévention des inconduites sexuelles et les procédures applicables ?",
+    "es": "¿Imparte su organización formación obligatoria, en línea o presencial, a todo el personal sobre la prevención de conductas sexuales indebidas y los procedimientos pertinentes?",
+    "ru": "Проводит ли организация обязательное онлайн- или очное обучение всех сотрудников по предотвращению сексуальных проступков и соответствующим процедурам?",
+    "zh": "您的组织是否为全体人员提供有关预防性不当行为及相关程序的强制线上或线下培训？",
+    "ar": "هل تقدّم مؤسستك تدريباً إلزامياً، عبر الإنترنت أو حضورياً، لجميع العاملين بشأن منع سوء السلوك الجنسي والإجراءات ذات الصلة؟"
+  },
+  "Annual training plan": {
+    "fr": "Plan annuel de formation",
+    "es": "Plan anual de formación",
+    "ru": "Годовой план обучения",
+    "zh": "年度培训计划",
+    "ar": "خطة التدريب السنوية"
+  },
+  "Training agenda": {
+    "fr": "Programme de formation",
+    "es": "Programa de formación",
+    "ru": "Программа обучения",
+    "zh": "培训议程",
+    "ar": "جدول أعمال التدريب"
+  },
+  "Training package": {
+    "fr": "Supports de formation",
+    "es": "Material de formación",
+    "ru": "Учебные материалы",
+    "zh": "培训材料包",
+    "ar": "حزمة التدريب"
+  },
+  "Attendance sheets": {
+    "fr": "Feuilles de présence",
+    "es": "Listas de asistencia",
+    "ru": "Листы посещаемости",
+    "zh": "签到表",
+    "ar": "كشوف الحضور"
+  },
+  "Training certificates": {
+    "fr": "Certificats de formation",
+    "es": "Certificados de formación",
+    "ru": "Сертификаты об обучении",
+    "zh": "培训证书",
+    "ar": "شهادات التدريب"
+  },
+  "Reporting": {
+    "fr": "Signalement",
+    "es": "Notificación",
+    "ru": "Сообщение о нарушениях",
+    "zh": "举报",
+    "ar": "الإبلاغ"
+  },
+  "Create safe, accessible ways for people to speak up.": {
+    "fr": "Créer des moyens sûrs et accessibles pour que chacun puisse s’exprimer.",
+    "es": "Crear vías seguras y accesibles para comunicar preocupaciones.",
+    "ru": "Создайте безопасные и доступные способы сообщения о нарушениях.",
+    "zh": "建立安全、便捷的发声渠道。",
+    "ar": "إنشاء قنوات آمنة وميسّرة للإبلاغ."
+  },
+  "Does your organization have reporting mechanisms and procedures for personnel, beneficiaries and communities, including children, that meet standards for safety, confidentiality, transparency and accessibility?": {
+    "fr": "Votre organisation dispose-t-elle de mécanismes et procédures de signalement pour le personnel, les bénéficiaires et les communautés, y compris les enfants, respectant les normes de sécurité, de confidentialité, de transparence et d’accessibilité ?",
+    "es": "¿Dispone su organización de mecanismos y procedimientos de notificación para el personal, los beneficiarios y las comunidades, incluidos los niños, que cumplan las normas de seguridad, confidencialidad, transparencia y accesibilidad?",
+    "ru": "Есть ли в организации механизмы и процедуры подачи сообщений для сотрудников, бенефициаров и сообществ, включая детей, соответствующие требованиям безопасности, конфиденциальности, прозрачности и доступности?",
+    "zh": "您的组织是否为人员、受益人和社区（包括儿童）建立了符合安全、保密、透明及可及性标准的举报机制和程序？",
+    "ar": "هل لدى مؤسستك آليات وإجراءات للإبلاغ للعاملين والمستفيدين والمجتمعات، بمن فيهم الأطفال، تستوفي معايير السلامة والسرية والشفافية وإمكانية الوصول؟"
+  },
+  "Internal Complaints and Feedback Mechanisms": {
+    "fr": "Mécanismes internes de plaintes et de retour d’information",
+    "es": "Mecanismos internos de quejas y comentarios",
+    "ru": "Внутренние механизмы подачи жалоб и обратной связи",
+    "zh": "内部投诉与反馈机制",
+    "ar": "آليات داخلية للشكاوى والملاحظات"
+  },
+  "Participation in joint reporting mechanisms": {
+    "fr": "Participation à des mécanismes de signalement conjoints",
+    "es": "Participación en mecanismos conjuntos de notificación",
+    "ru": "Участие в совместных механизмах подачи сообщений",
+    "zh": "参与联合举报机制",
+    "ar": "المشاركة في آليات إبلاغ مشتركة"
+  },
+  "Communication materials": {
+    "fr": "Supports de communication",
+    "es": "Materiales de comunicación",
+    "ru": "Информационные материалы",
+    "zh": "宣传材料",
+    "ar": "مواد التواصل"
+  },
+  "Prevention of sexual misconduct awareness-raising plan": {
+    "fr": "Plan de sensibilisation à la prévention des inconduites sexuelles",
+    "es": "Plan de sensibilización sobre la prevención de conductas sexuales indebidas",
+    "ru": "План повышения осведомлённости о предотвращении сексуальных проступков",
+    "zh": "预防性不当行为宣传计划",
+    "ar": "خطة للتوعية بمنع سوء السلوك الجنسي"
+  },
+  "Description of reporting mechanism": {
+    "fr": "Description du mécanisme de signalement",
+    "es": "Descripción del mecanismo de notificación",
+    "ru": "Описание механизма подачи сообщений",
+    "zh": "举报机制说明",
+    "ar": "وصف آلية الإبلاغ"
+  },
+  "Whistle-blower policy": {
+    "fr": "Politique de protection des lanceurs d’alerte",
+    "es": "Política de protección de denunciantes",
+    "ru": "Политика защиты информаторов",
+    "zh": "举报人保护政策",
+    "ar": "سياسة حماية المبلّغين"
+  },
+  "Assistance and Referrals": {
+    "fr": "Assistance et orientation",
+    "es": "Asistencia y derivaciones",
+    "ru": "Помощь и направление к услугам",
+    "zh": "援助与转介",
+    "ar": "المساعدة والإحالة"
+  },
+  "Connect survivors with the support they choose.": {
+    "fr": "Orienter les personnes survivantes vers le soutien de leur choix.",
+    "es": "Conectar a las personas sobrevivientes con el apoyo que elijan.",
+    "ru": "Помогите пострадавшим получить выбранную ими поддержку.",
+    "zh": "帮助幸存者获得其自主选择的支持。",
+    "ar": "ربط الناجين بالدعم الذي يختارونه."
+  },
+  "Does your organization have a system to refer victims of sexual misconduct to locally available support services, based on their needs and consent? This can include contributing to in-country PSEA networks, GBV systems or interagency referral pathways.": {
+    "fr": "Votre organisation dispose-t-elle d’un système d’orientation des victimes d’inconduites sexuelles vers les services locaux, selon leurs besoins et leur consentement ? Cela peut inclure une participation aux réseaux PSEA nationaux, aux systèmes de lutte contre les violences basées sur le genre ou aux parcours d’orientation interorganisations.",
+    "es": "¿Dispone su organización de un sistema para derivar a las víctimas de conductas sexuales indebidas a servicios locales según sus necesidades y consentimiento? Puede incluir redes nacionales de PSEA, sistemas de violencia de género o vías de derivación interinstitucionales.",
+    "ru": "Есть ли в организации система направления пострадавших от сексуальных проступков к местным службам поддержки с учётом их потребностей и согласия? Это может включать участие в национальных сетях PSEA, системах противодействия гендерному насилию или межучрежденческих маршрутах помощи.",
+    "zh": "您的组织是否建立了根据性不当行为受害者的需求及同意，将其转介至当地支持服务的系统？这可包括参与国内防止性剥削和性虐待网络、性别暴力应对系统或机构间转介途径。",
+    "ar": "هل لدى مؤسستك نظام لإحالة ضحايا سوء السلوك الجنسي إلى خدمات الدعم المحلية وفق احتياجاتهم وموافقتهم؟ قد يشمل ذلك المشاركة في الشبكات الوطنية لمنع الاستغلال والانتهاك الجنسي أو نظم العنف القائم على النوع الاجتماعي أو مسارات الإحالة المشتركة بين الوكالات."
+  },
+  "Internal or interagency referral pathway": {
+    "fr": "Parcours d’orientation interne ou interorganisations",
+    "es": "Vía de derivación interna o interinstitucional",
+    "ru": "Внутренний или межучрежденческий маршрут направления к услугам",
+    "zh": "内部或机构间转介途径",
+    "ar": "مسار إحالة داخلي أو مشترك بين الوكالات"
+  },
+  "List of available service providers": {
+    "fr": "Liste des prestataires de services disponibles",
+    "es": "Lista de proveedores de servicios disponibles",
+    "ru": "Список доступных поставщиков услуг",
+    "zh": "可用服务提供者名单",
+    "ar": "قائمة مقدّمي الخدمات المتاحين"
+  },
+  "Description of referral or Standard Operating Procedure (SOP)": {
+    "fr": "Description du processus d’orientation ou procédure opérationnelle standard",
+    "es": "Descripción de la derivación o procedimiento operativo estándar",
+    "ru": "Описание направления или стандартная операционная процедура",
+    "zh": "转介说明或标准操作程序",
+    "ar": "وصف الإحالة أو إجراء التشغيل الموحّد"
+  },
+  "Referral form for survivors or victims of sexual misconduct or GBV": {
+    "fr": "Formulaire d’orientation des victimes ou survivants d’inconduites sexuelles ou de violences basées sur le genre",
+    "es": "Formulario de derivación para sobrevivientes o víctimas de conductas sexuales indebidas o violencia de género",
+    "ru": "Форма направления пострадавших от сексуальных проступков или гендерного насилия",
+    "zh": "性不当行为或性别暴力幸存者或受害者转介表",
+    "ar": "نموذج إحالة للناجين أو الضحايا من سوء السلوك الجنسي أو العنف القائم على النوع الاجتماعي"
+  },
+  "Guidelines on victim assistance or training on GBV and GBV case management principles": {
+    "fr": "Directives sur l’assistance aux victimes ou formation sur les violences basées sur le genre et la gestion des cas",
+    "es": "Directrices sobre asistencia a víctimas o formación sobre violencia de género y principios de gestión de casos",
+    "ru": "Рекомендации по помощи пострадавшим или обучение по гендерному насилию и принципам ведения дел",
+    "zh": "受害者援助指南，或性别暴力及个案管理原则培训",
+    "ar": "إرشادات لمساعدة الضحايا أو تدريب بشأن العنف القائم على النوع الاجتماعي ومبادئ إدارة الحالات"
+  },
+  "Investigations": {
+    "fr": "Enquêtes",
+    "es": "Investigaciones",
+    "ru": "Расследования",
+    "zh": "调查",
+    "ar": "التحقيقات"
+  },
+  "Ensure allegations can be investigated professionally.": {
+    "fr": "Garantir que les allégations puissent être examinées avec professionnalisme.",
+    "es": "Garantizar que las denuncias puedan investigarse profesionalmente.",
+    "ru": "Обеспечьте профессиональное расследование сообщений.",
+    "zh": "确保能够对指控进行专业调查。",
+    "ar": "ضمان إمكانية التحقيق في الادّعاءات بمهنية."
+  },
+  "Does your organization have an evidenced process for investigating allegations of sexual exploitation, abuse and harassment, including referrals where in-house capacity does not exist?": {
+    "fr": "Votre organisation dispose-t-elle d’un processus documenté d’enquête sur les allégations d’exploitation, d’abus et de harcèlement sexuels, prévoyant une orientation lorsque les capacités internes sont insuffisantes ?",
+    "es": "¿Dispone su organización de un proceso documentado para investigar denuncias de explotación, abuso y acoso sexuales, incluidas derivaciones cuando no existe capacidad interna?",
+    "ru": "Есть ли в организации подтверждённая процедура расследования сообщений о сексуальной эксплуатации, насилии и домогательствах, включая передачу расследования при отсутствии собственного потенциала?",
+    "zh": "您的组织是否有可提供证明的性剥削、性虐待和性骚扰指控调查程序，包括在缺乏内部能力时的转介安排？",
+    "ar": "هل لدى مؤسستك إجراء موثّق للتحقيق في ادّعاءات الاستغلال والانتهاك والتحرش الجنسي، بما في ذلك الإحالة عند غياب القدرة الداخلية؟"
+  },
+  "Written process for review of misconduct allegations": {
+    "fr": "Procédure écrite d’examen des allégations d’inconduite",
+    "es": "Procedimiento escrito para revisar denuncias de conductas indebidas",
+    "ru": "Письменная процедура рассмотрения сообщений о проступках",
+    "zh": "审查不当行为指控的书面程序",
+    "ar": "إجراء مكتوب لمراجعة ادّعاءات سوء السلوك"
+  },
+  "Dedicated investigation resources or commitment of a partner to support": {
+    "fr": "Ressources dédiées aux enquêtes ou engagement de soutien d’un partenaire",
+    "es": "Recursos específicos para investigaciones o compromiso de apoyo de una organización asociada",
+    "ru": "Выделенные ресурсы для расследований или обязательство партнёра оказать поддержку",
+    "zh": "调查专项资源或合作伙伴支持承诺",
+    "ar": "موارد مخصّصة للتحقيق أو التزام شريك بتقديم الدعم"
+  },
+  "PSEAH or general misconduct investigation policy or procedures": {
+    "fr": "Politique ou procédures d’enquête PSEAH ou sur les inconduites en général",
+    "es": "Política o procedimientos de investigación de PSEAH o de conductas indebidas en general",
+    "ru": "Политика или процедуры расследования нарушений PSEAH либо иных проступков",
+    "zh": "相关行为或一般不当行为调查政策或程序",
+    "ar": "سياسة أو إجراءات للتحقيق في الاستغلال والانتهاك والتحرش الجنسي أو سوء السلوك عموماً"
+  },
+  "Contract with a professional investigative service": {
+    "fr": "Contrat avec un service d’enquête professionnel",
+    "es": "Contrato con un servicio profesional de investigación",
+    "ru": "Договор с профессиональной службой расследований",
+    "zh": "与专业调查机构签订的合同",
+    "ar": "عقد مع خدمة تحقيق مهنية"
+  },
+  "Corrective Action": {
+    "fr": "Mesures correctives",
+    "es": "Medidas correctivas",
+    "ru": "Корректирующие меры",
+    "zh": "纠正行动",
+    "ar": "الإجراءات التصحيحية"
+  },
+  "Turn lessons learned into meaningful, lasting change.": {
+    "fr": "Transformer les enseignements tirés en changements concrets et durables.",
+    "es": "Transformar las lecciones aprendidas en cambios significativos y duraderos.",
+    "ru": "Превратите извлечённые уроки в значимые и устойчивые изменения.",
+    "zh": "将经验教训转化为有意义、持久的改变。",
+    "ar": "تحويل الدروس المستفادة إلى تغيير فعّال ومستدام."
+  },
+  "Has your organization taken appropriate corrective action in response to sexual misconduct allegations, if any?": {
+    "fr": "Votre organisation a-t-elle pris les mesures correctives appropriées en réponse aux allégations d’inconduites sexuelles, le cas échéant ?",
+    "es": "¿Ha tomado su organización medidas correctivas adecuadas ante denuncias de conductas sexuales indebidas, si las hubo?",
+    "ru": "Приняла ли организация надлежащие корректирующие меры в ответ на сообщения о сексуальных проступках, если они имели место?",
+    "zh": "如曾有性不当行为指控，您的组织是否采取了适当的纠正行动？",
+    "ar": "هل اتّخذت مؤسستك إجراءات تصحيحية مناسبة استجابةً لادّعاءات سوء السلوك الجنسي، إن وُجدت؟"
+  },
+  "Implementation of identified corrective measures, including staff capacity strengthening": {
+    "fr": "Mise en œuvre des mesures correctives identifiées, y compris le renforcement des capacités du personnel",
+    "es": "Aplicación de las medidas correctivas identificadas, incluido el fortalecimiento de las capacidades del personal",
+    "ru": "Реализация определённых корректирующих мер, включая укрепление потенциала сотрудников",
+    "zh": "落实已确定的纠正措施，包括加强人员能力",
+    "ar": "تنفيذ التدابير التصحيحية المحدّدة، بما فيها تعزيز قدرات العاملين"
+  },
+  "Specific measures to identify and reduce sexual misconduct risks in programme delivery": {
+    "fr": "Mesures spécifiques pour identifier et réduire les risques d’inconduites sexuelles dans la mise en œuvre des programmes",
+    "es": "Medidas específicas para identificar y reducir los riesgos de conductas sexuales indebidas en la ejecución de programas",
+    "ru": "Конкретные меры по выявлению и снижению рисков сексуальных проступков при реализации программ",
+    "zh": "识别并降低项目实施中性不当行为风险的具体措施",
+    "ar": "تدابير محدّدة لتحديد مخاطر سوء السلوك الجنسي والحدّ منها أثناء تنفيذ البرامج"
+  }
+}
