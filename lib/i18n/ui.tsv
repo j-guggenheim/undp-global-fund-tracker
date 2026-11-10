@@ -31,8 +31,6 @@ Country of implementation|Pays de mise en œuvre|País de ejecución|Стран�
 Contact name|Nom du contact|Nombre de contacto|Контактное лицо|联系人姓名|اسم جهة الاتصال
 Contact email|Adresse e-mail du contact|Correo de contacto|Контактный адрес электронной почты|联系电子邮箱|البريد الإلكتروني لجهة الاتصال
 Grant reference (optional)|Référence de la subvention (facultatif)|Referencia de la subvención (opcional)|Номер гранта (необязательно)|赠款编号（可选）|مرجع المنحة (اختياري)
-Funding received (optional)|Financement reçu (facultatif)|Financiación recibida (opcional)|Полученное финансирование (необязательно)|已获资金（可选）|التمويل المستلم (اختياري)
-Funding currency|Devise du financement|Moneda de financiación|Валюта финансирования|资金币种|عملة التمويل
 Full name|Nom complet|Nombre completo|Полное имя|全名|الاسم الكامل
 Country|Pays|País|Страна|国家|البلد
 Grant reference|Référence de la subvention|Referencia de la subvención|Номер гранта|赠款编号|مرجع المنحة
@@ -46,7 +44,6 @@ PREVENTION. ACCOUNTABILITY. PROGRESS.|PRÉVENTION. RESPONSABILITÉ. PROGRÈS.|PR
 Your compliance overview|Votre conformité en bref|Resumen de su cumplimiento|Обзор соблюдения стандартов|您的合规概览|نظرة عامة على امتثالك
 Build a safer organization, one standard at a time.|Renforcez la sécurité de votre organisation, une norme à la fois.|Construya una organización más segura, norma por norma.|Повышайте безопасность организации, последовательно выполняя стандарты.|逐项落实标准，建设更安全的组织。|ابنِ مؤسسة أكثر أماناً، معياراً تلو الآخر.
 Export overview|Exporter la synthèse|Exportar resumen|Экспортировать обзор|导出概览|تصدير النظرة العامة
-FUNDING RECEIVED|FINANCEMENT REÇU|FINANCIACIÓN RECIBIDA|ПОЛУЧЕННОЕ ФИНАНСИРОВАНИЕ|已获资金|التمويل المستلم
 Not specified|Non renseigné|Sin especificar|Не указано|未填写|غير محدد
 Edit details|Modifier les informations|Editar datos|Изменить сведения|编辑信息|تعديل البيانات
 Grant|Subvention|Subvención|Грант|赠款|المنحة
@@ -180,7 +177,6 @@ Please try again.|Veuillez réessayer.|Inténtelo de nuevo.|Повторите �
 Please check your details and try again.|Vérifiez vos informations et réessayez.|Revise sus datos e inténtelo de nuevo.|Проверьте данные и повторите попытку.|请检查信息并重试。|تحقّق من بياناتك وحاول مجدداً.
 Organization details are required.|Les informations de l’organisation sont obligatoires.|Los datos de la organización son obligatorios.|Необходимо указать сведения об организации.|请填写组织信息。|بيانات المؤسسة مطلوبة.
 Check your organization details.|Vérifiez les informations de votre organisation.|Revise los datos de su organización.|Проверьте сведения об организации.|请检查组织信息。|تحقّق من بيانات مؤسستك.
-Check your organization and funding details.|Vérifiez les informations de votre organisation et du financement.|Revise los datos de su organización y financiación.|Проверьте сведения об организации и финансировании.|请检查组织及资金信息。|تحقّق من بيانات المؤسسة والتمويل.
 Enter a valid email address.|Saisissez une adresse e-mail valide.|Introduzca un correo electrónico válido.|Введите действительный адрес электронной почты.|请输入有效的电子邮箱。|أدخل عنوان بريد إلكتروني صالحاً.
 Enter your password.|Saisissez votre mot de passe.|Introduzca su contraseña.|Введите пароль.|请输入密码。|أدخل كلمة المرور.
 Use at least 12 characters for your password.|Utilisez au moins 12 caractères pour votre mot de passe.|Utilice al menos 12 caracteres para su contraseña.|Пароль должен содержать не менее 12 символов.|密码至少需要12个字符。|استخدم 12 حرفاً على الأقل لكلمة المرور.

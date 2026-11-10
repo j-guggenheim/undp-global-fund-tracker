@@ -16,7 +16,7 @@ For email links that work across devices, set these Supabase templates:
 - Confirm signup URL: `{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=email`
 - Reset password URL: `{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=recovery`
 
-Registration captures organization, country, contact name, email, optional grant and funding details, and a password of at least 12 characters. An auth trigger creates the organization record atomically. Each database table has row-level security, and private storage policies restrict objects to the account-ID folder.
+Registration captures organization, country, contact name, email, an optional grant reference, and a password of at least 12 characters. An auth trigger creates the organization record atomically. Each database table has row-level security, and private storage policies restrict objects to the account-ID folder.
 
 Evidence uploads go directly to private storage to preserve the 10 MB per-file limit without routing file bytes through Vercel's request-size limit. The server verifies stored file metadata before recording the attachment.
 

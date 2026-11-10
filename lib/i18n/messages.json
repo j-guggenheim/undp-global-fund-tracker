@@ -230,20 +230,6 @@
     "zh": "赠款编号（可选）",
     "ar": "مرجع المنحة (اختياري)"
   },
-  "Funding received (optional)": {
-    "fr": "Financement reçu (facultatif)",
-    "es": "Financiación recibida (opcional)",
-    "ru": "Полученное финансирование (необязательно)",
-    "zh": "已获资金（可选）",
-    "ar": "التمويل المستلم (اختياري)"
-  },
-  "Funding currency": {
-    "fr": "Devise du financement",
-    "es": "Moneda de financiación",
-    "ru": "Валюта финансирования",
-    "zh": "资金币种",
-    "ar": "عملة التمويل"
-  },
   "Full name": {
     "fr": "Nom complet",
     "es": "Nombre completo",
@@ -334,13 +320,6 @@
     "ru": "Экспортировать обзор",
     "zh": "导出概览",
     "ar": "تصدير النظرة العامة"
-  },
-  "FUNDING RECEIVED": {
-    "fr": "FINANCEMENT REÇU",
-    "es": "FINANCIACIÓN RECIBIDA",
-    "ru": "ПОЛУЧЕННОЕ ФИНАНСИРОВАНИЕ",
-    "zh": "已获资金",
-    "ar": "التمويل المستلم"
   },
   "Not specified": {
     "fr": "Non renseigné",
@@ -1272,13 +1251,6 @@
     "ru": "Проверьте сведения об организации.",
     "zh": "请检查组织信息。",
     "ar": "تحقّق من بيانات مؤسستك."
-  },
-  "Check your organization and funding details.": {
-    "fr": "Vérifiez les informations de votre organisation et du financement.",
-    "es": "Revise los datos de su organización y financiación.",
-    "ru": "Проверьте сведения об организации и финансировании.",
-    "zh": "请检查组织及资金信息。",
-    "ar": "تحقّق من بيانات المؤسسة والتمويل."
   },
   "Enter a valid email address.": {
     "fr": "Saisissez une adresse e-mail valide.",
